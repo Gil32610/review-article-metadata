@@ -1,0 +1,16 @@
+
+
+Bi, L.; Muazu, T.; Samuel, O. IoT: A Decentralized Trust Management System Using Blockchain-Empowered Federated Learning. Sustainability 2023, 15(1), 374; https://doi.org/10.3390/su15010374.
+https://www.mdpi.com/2071-1050/15/1/374
+
+
+
+Deebak, B.; Hwang, S. Federated Learning-Based Lightweight Two-Factor Authentication Framework with Privacy Preservation for Mobile Sink in the Social IoMT. Electronics 2023, 12(5), 1250; https://doi.org/10.3390/electronics12051250.
+https://www.mdpi.com/2079-9292/12/5/1250
+
+
+
+Li, Z.; Zou, S.; Chen, X. On Dynamic Node Cooperation Strategy Design for Energy Efficiency in Hierarchical Federated Learning. Electronics 2023, 12(11), 2362; https://doi.org/10.3390/electronics12112362.
+https://www.mdpi.com/2079-9292/12/11/2362
+
+

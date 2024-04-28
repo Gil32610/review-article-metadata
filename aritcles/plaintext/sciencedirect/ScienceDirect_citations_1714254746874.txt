@@ -1,0 +1,71 @@
+Shigen Shen, Chenpeng Cai, Zhenwei Li, Yizhou Shen, Guowen Wu, Shui Yu,
+Deep Q-network-based heuristic intrusion detection against edge-based SIoT zero-day attacks,
+Applied Soft Computing,
+Volume 150,
+2024,
+111080,
+ISSN 1568-4946,
+https://doi.org/10.1016/j.asoc.2023.111080.
+(https://www.sciencedirect.com/science/article/pii/S1568494623010980)
+Abstract: How to process and classify zero-day attacks due to their huge damage to social Internet of Things (SIoT) systems has become a hot research issue. To solve this issue, we propose a heuristic learning intrusion detection system with Deep Q-Networks (DQN) for edge-based SIoT networks under the scenario of insufficient training samples, which is named DQN-HIDS. It is composed of an SIoT network traffic processing module and a DQN-based heuristic learning network. The SIoT network traffic processing module generates SIoT traffic samples, selects samples entering a classifier and a cybersecurity examiner center, and outputs similarity. We integrate DQN into a heuristic learning network to gradually improve its ability to identify malicious traffic. Specially, reward functions are designed according to the selected actions of the network, in order to punish the behavior of incorrectly labeling malicious samples and make variable reward functions adapt to different execution actions. The LSTM-based DQN then maximizes the cumulative expected reward to find the optimal strategy for the heuristic learning network. Consequently, DQN-HIDS gradually improves the behavior frequency of its labeling, reduces resource workloads, and increases the ability to label SIoT network traffic. Experiments show the performance of DQN-HIDS in terms of the workload of the examiner center and the queue workload of delayed samples, the rewards obtained by the DQN-based heuristic learning network, and the accuracy of the classifier. Comparisons with a state-of-the-art deep learning model and typical machine learning methods are also made, demonstrating the advantages of DQN-HIDS with fewer SIoT network traffic samples.
+Keywords: Social Internet of Things; Zero-day attacks; Intrusion detection system; Deep Q-Networks; Heuristic learning
+
+Parjanay Sharma, Siddhant Jain, Shashank Gupta, Vinay Chamola,
+Role of machine learning and deep learning in securing 5G-driven industrial IoT applications,
+Ad Hoc Networks,
+Volume 123,
+2021,
+102685,
+ISSN 1570-8705,
+https://doi.org/10.1016/j.adhoc.2021.102685.
+(https://www.sciencedirect.com/science/article/pii/S1570870521001906)
+Abstract: The Internet of Things (IoT) connects millions of computing devices and has set a stage for future technology where industrial use cases like smart cities and smart houses will operate with minimal human intervention. IoT’s cross-domain amalgamations with emergent technologies like 5G and blockchain affects human life. Hence, increase in reliance over IoT necessitates focus on its privacy and security concerns. Implementing security through encryption, authentication, access control and communication security is the need of the hour. These needs can be best catered with the use of machine learning (ML) and deep learning (DL) that can help in realizing secure intelligent systems. In this work, the authors present a comprehensive review for securing Industrial-IoT (I-IoT) devices to contribute to the development of security methods for I-IoT deployed over 5G and blockchain. The survey provides a general analysis of the state-of-the-art security implementation and further assesses the product life cycle of IoT devices. The authors present numerous virtues as well as faults in the machine learning and deep learning algorithms deployed over the fog architecture in context with the security solutions. The potential security algorithms can help overcome many challenges in the IoT security and pave way for implementation with emerging technologies like 5G, blockchain, edge computing, fog computing and their use cases for creating smart environments.
+Keywords: Industrial internet of things; Security; Machine learning; Deep learning; Artificial intelligence; Block chain; Smart city
+
+Mohammad Amiri-Zarandi, Rozita A. Dara, Xiaodong Lin,
+SIDS: A federated learning approach for intrusion detection in IoT using Social Internet of Things,
+Computer Networks,
+Volume 236,
+2023,
+110005,
+ISSN 1389-1286,
+https://doi.org/10.1016/j.comnet.2023.110005.
+(https://www.sciencedirect.com/science/article/pii/S1389128623004504)
+Abstract: The Internet of Things (IoT) ecosystem needs Intrusion Detection Systems (IDS) to mitigate cyberattacks and exploit security vulnerabilities. Over the past years, utilizing machine learning in IDSs has gained a lot of attention. However, in many current works, the training data from different locations should be collected in a central server to be used in the learning process. This data-sharing procedure increases concerns regarding data privacy and decreases the data holders’ motivation to participate in the learning process. The use of distributed learning models has been considered a solution to overcome concerns related to privacy. However, these distributed learning models are vulnerable in the presence of untrusted nodes that can participate in the learning process and deteriorate performance. In this paper, we propose SIDS (Social Intrusion Detection System), a trust-oriented federated learning approach for intrusion detection in IoT that utilizes the Social Internet of Things (SIoT). The proposed approach leverages the social relationships among the objects in a system to provide a privacy-preserving collaborative mechanism for detecting intrusions in IoT environments. The experimental results show the proposed solution outperforms the learning models on individual servers while providing a privacy-preserving and trustable environment for collaboration.
+Keywords: Federated learning; IoT; SIoT; Privacy; Security; Generative Adversarial Networks
+
+Hind Bangui, Barbora Buhnova, Mouzhi Ge,
+Social Internet of Things: Ethical AI Principles in Trust Management,
+Procedia Computer Science,
+Volume 220,
+2023,
+Pages 553-560,
+ISSN 1877-0509,
+https://doi.org/10.1016/j.procs.2023.03.070.
+(https://www.sciencedirect.com/science/article/pii/S1877050923006051)
+Abstract: Trust management has become a fundamental requirement for Social Internet of Things (SIoT) to enable a trustworthy social network of smart objects necessary for enhancing the security and reliability of cyber-physical systems. To increase the credibility scores in trust management, AI (Artificial Intelligence) has been adopted. However, the current need for digital acceleration has brought ethical concerns related to the smartness and social consciousness of autonomous objects, which leads to a question whether AI-based trust management is ready to deal with these concerns. In this paper, we consider 11 ethical dimensions within the context of trust management in SIoT. Then, we examine the existing AI-based trust models in the context of SIoT and its related application domains to assess their maturity in terms of the 11 ethical dimensions. The evaluation results show how trust management can be improved by AI ethical principles in vehicular networks and underwater acoustic sensor networks.
+Keywords: Trust Management; AI; SIoT; IoT; Ethics; Cyber-physical systems
+
+Ishaani Priyadarshini, Ahmed Alkhayyat, Anita Gehlot, Raghvendra Kumar,
+Time series analysis and anomaly detection for trustworthy smart homes,
+Computers and Electrical Engineering,
+Volume 102,
+2022,
+108193,
+ISSN 0045-7906,
+https://doi.org/10.1016/j.compeleceng.2022.108193.
+(https://www.sciencedirect.com/science/article/pii/S0045790622004347)
+Abstract: The IoT network is expected to harbor several zettabytes of information in the future. Since trust and integrity are critical to IoT, it is essential to imbibe trust into the IoT environment for ensuring dependability and reliability. We propose a machine learning-based trustworthy system for the IoT-based smart home environment. Multiple appliances connected through the internet are susceptible to privacy issues, hence utmost care must be taken to ensure trust in the network. We consider the energy data and weather information with respect to smart homes, for comprehending the relationship between energy consumption by appliances and time period for detecting anomalous usage of appliances using the SDAR-based Change Finder algorithm. Time series analysis is performed using ARIMA, SARIMA, LSTM, Prophet, Light GBM, and VAR. The evaluation has been performed using RMSE, MSE, and MAE, and the study establishes that the ARIMA model outperforms the other models.
+Keywords: Smart home; Trustworthy systems; ARIMA; SARIMA; LSTM; Prophet
+
+Guowen Wu, Lanlan Xie, Hong Zhang, Jianhua Wang, Shigen Shen, Shui Yu,
+STSIR: An individual-group game-based model for disclosing virus spread in Social Internet of Things,
+Journal of Network and Computer Applications,
+Volume 214,
+2023,
+103608,
+ISSN 1084-8045,
+https://doi.org/10.1016/j.jnca.2023.103608.
+(https://www.sciencedirect.com/science/article/pii/S1084804523000279)
+Abstract: Social Internet of Things (SIoT) with deep integration of Internet of Things and social networks has become a target of a large number of hackers who attempt to spread viruses for breaching data confidentiality and service reliability. Therefore, exposing the law of virus spread with social characteristics and addressing historical dependence of infection and recovery rates in an SIoT are urgent problems to be solved at present. To this end, we propose a novel virus spread model (STSIR) based on an epidemic theory's analysis framework and individual-group game theory, which more reasonably describes viruses spread among devices considering people behavior. Aiming at the characteristics of SIoTs including limited social distance and dynamic number variation of people and devices, we adopt and improve the traditional epidemic model SIR to reveal the form of viruses continuously spreading to neighbor nodes. We then introduce an individual-group game to establish the attack and defense model between infected SIoT nodes and susceptible SIoT nodes, in order to not only obtain the mixed Nash equilibrium solution by using a payoff matrix but also solve the dependence of the infection and recovery rates on historical experience. Further, we establish differential equations to represent the model STSIR, which are the basis of proving the existence of model equilibrium points and analyzing stability mathematically. Finally, the effectiveness of the model STSIR in curbing virus spread is verified by simulating two equilibrium points. Under the same conditions in an SIoT, the model STSIR reduce viruses by ∼45% more than the model SIS, and saves stabilization time cost by ∼66.7% compared with the model SIR, which proves that the model STSIR is obviously more effective.
+Keywords: Social internet of things; Virus spread; Individual-group game; Epidemic theory; Stability; Equilibrium points
