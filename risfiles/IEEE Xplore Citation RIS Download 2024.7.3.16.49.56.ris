@@ -1,0 +1,438 @@
+TY  - JOUR
+TI  - Blockchain-Enhanced Federated Learning Market With Social Internet of Things
+T2  - IEEE Journal on Selected Areas in Communications
+SP  - 3405
+EP  - 3421
+AU  - P. Wang
+AU  - Y. Zhao
+AU  - M. S. Obaidat
+AU  - Z. Wei
+AU  - H. Qi
+AU  - C. Lin
+AU  - Y. Xiao
+AU  - Q. Zhang
+PY  - 2022
+KW  - Task analysis
+KW  - Information sharing
+KW  - Federated learning
+KW  - Social Internet of Things
+KW  - Training data
+KW  - Data models
+KW  - Computational modeling
+KW  - Federated learning
+KW  - blockchain
+KW  - social Internet of Things
+KW  - task allocation
+KW  - data sharing
+DO  - 10.1109/JSAC.2022.3213314
+JO  - IEEE Journal on Selected Areas in Communications
+IS  - 12
+SN  - 1558-0008
+VO  - 40
+VL  - 40
+JA  - IEEE Journal on Selected Areas in Communications
+Y1  - Dec. 2022
+AB  - The machine learning performance usually could be improved by training with massive data. However, requesters can only select a subset of devices with limited training data to execute federated learning (FL) tasks as a result of their limited budgets in today’s IoT scenario. To resolve this pressing issue, we devise a blockchain-enhanced FL market (BFL) to  $(i)$  make data in computationally bounded devices available for training with social Internet of things,  $(ii)$  maximize the amount of training data with given budgets for an FL task, and  $(iii)$  decentralize the FL market with blockchain. To achieve these goals, we firstly propose a trust-enhanced collaborative learning strategy (TCL) and a quality-oriented task allocation algorithm (QTA), where TCL enables training data sharing among trusted devices with social Internet of things, and QTA allocates suitable devices to execute FL tasks while maximizing the training quality with fixed budgets. Then, we devise an encrypted model training scheme (EMT) based on a simple but countervailable differential privacy methodology to prevent attacks from malicious devices. In addition, we also propose a contribution-driven delegated proof of stake (DPoS) consensus mechanism to guarantee the fairness of reward distribution in the block generation process. Finally, extensive evaluations are conducted to verify the proposed BFL could improve the total utility of requesters and average accuracy of FL models significantly.
+ER  - 
+
+TY  - JOUR
+TI  - Collaborative Edge Computing for Social Internet of Things: Applications, Solutions, and Challenges
+T2  - IEEE Transactions on Computational Social Systems
+SP  - 291
+EP  - 301
+AU  - P. Dong
+AU  - J. Ge
+AU  - X. Wang
+AU  - S. Guo
+PY  - 2022
+KW  - Collaboration
+KW  - Task analysis
+KW  - Edge computing
+KW  - Servers
+KW  - Internet of Things
+KW  - Device-to-device communication
+KW  - Computer architecture
+KW  - Collaborative edge computing
+KW  - Social Internet of Things (SIoT)
+DO  - 10.1109/TCSS.2021.3072693
+JO  - IEEE Transactions on Computational Social Systems
+IS  - 1
+SN  - 2329-924X
+VO  - 9
+VL  - 9
+JA  - IEEE Transactions on Computational Social Systems
+Y1  - Feb. 2022
+AB  - The paradigm of Internet of Things (IoT) has attracted much attention in both academia and industry areas in the past decades. Recently, the integration of IoT and social networks is advocated to promote further development. This article focuses on the applications, solutions, and challenges of Social Internet of Things (SIoT) over collaborative edge computing, which exploits the advantages of both mobile edge computing and social relationships among SIoT users. First, applications of collaborative offloading, caching, and streaming data processing are illustrated, followed by representative social-aware solutions, including auction, coalition game, and federated learning. Finally, several research challenges are described. The main contributions of this article are as follows: 1) we specify the role of social ties in traditional applications of IoT and its impacts on individual’s selection; 2) we elaborate the reasons why the presented three approaches can be applied in SIoT; and 3) the discussed challenges can contribute to the future development of secure, robust, and intelligent SIoT frameworks.
+ER  - 
+
+TY  - CONF
+TI  - SIoT Selection, Clustering, and Routing for Federated Learning with Privacy-Preservation
+T2  - ICC 2022 - IEEE International Conference on Communications
+SP  - 5274
+EP  - 5279
+AU  - M. -S. Chung
+AU  - C. -H. Wang
+AU  - D. -N. Yang
+AU  - G. -S. Lee
+AU  - W. -T. Chen
+AU  - J. -P. Sheu
+PY  - 2022
+KW  - Training
+KW  - Performance evaluation
+KW  - Costs
+KW  - Simulation
+KW  - Clustering algorithms
+KW  - Routing
+KW  - Collaborative work
+DO  - 10.1109/ICC45855.2022.9838641
+JO  - ICC 2022 - IEEE International Conference on Communications
+IS  - 
+SN  - 1938-1883
+VO  - 
+VL  - 
+JA  - ICC 2022 - IEEE International Conference on Communications
+Y1  - 16-20 May 2022
+AB  - With the advances in Social Internet of Things (SIoT) and Federated learning (FL), smart devices are now able to cooperatively and locally perform learning tasks to protect sensitive data by Differential Privacy (DP). On the other hand, Hierarchical FL (HFL) clusters SIoTs into multiple local training groups to reduce communication overheads by local aggregation. In this paper, we explore SIoT Training Group Construction (STGC) for HFL to minimize the total SIoT computation, communication and hiring costs, and the privacy cost for exploiting DP. We prove that STGC is NP-hard and inapproximable within any factor unless P = NP. Then, we design an algorithm with the ideas of Coverage Efficiency Indicator, Data Balance-aware Dual Adjustment, and Privacy-Aware Rerouting to choose and cluster SIoTs and to determine the aggregator for local training and SIoT routing in each cluster. Simulation results manifest that the proposed algorithm outperforms state-of-the-arts regarding the total cost, model accuracy, and convergence time.
+ER  - 
+
+TY  - CONF
+TI  - Ensuring Minority Group Rights in Social IoT with Fairness-aware Federated Graph Node Classification
+T2  - 2023 IEEE Intl Conf on Parallel & Distributed Processing with Applications, Big Data & Cloud Computing, Sustainable Computing & Communications, Social Computing & Networking (ISPA/BDCloud/SocialCom/SustainCom)
+SP  - 125
+EP  - 130
+AU  - Q. Mao
+AU  - X. Lin
+AU  - G. Li
+AU  - L. Chen
+AU  - Y. Liu
+AU  - Y. Qi
+AU  - J. Li
+PY  - 2023
+KW  - Data privacy
+KW  - Analytical models
+KW  - Social groups
+KW  - Federated learning
+KW  - Focusing
+KW  - Graph neural networks
+KW  - Social Internet of Things
+KW  - Federated Learning
+KW  - Graph Neural Networks
+KW  - Proportional Fairness
+KW  - Social Internet of Things
+DO  - 10.1109/ISPA-BDCloud-SocialCom-SustainCom59178.2023.00049
+JO  - 2023 IEEE Intl Conf on Parallel & Distributed Processing with Applications, Big Data & Cloud Computing, Sustainable Computing & Communications, Social Computing & Networking (ISPA/BDCloud/SocialCom/SustainCom)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2023 IEEE Intl Conf on Parallel & Distributed Processing with Applications, Big Data & Cloud Computing, Sustainable Computing & Communications, Social Computing & Networking (ISPA/BDCloud/SocialCom/SustainCom)
+Y1  - 21-24 Dec. 2023
+AB  - Graph neural networks (GNNs) are a powerful tool to predict the categories of IoT nodes for providing diverse high-quality services in the social Internet of Things (SIoT). Intuitively, SIoT could be divided into several communities based on similar interests and mutual trust, whereas interaction between cross-community nodes may intrigue data privacy. With the popularity of federated learning (FL), a global GNN model can be collaboratively trained by exploiting knowledge from multiple parties in a privacy-preserving way. However, since node attributes across different SIoT communities are usually multi-source and heterogeneous, the performance of an optimum global model may exhibit potential bias against minority social groups, i.e, unfairness, thereby undermining the efficiency of node classification and social behavior analysis. To address this problem, we propose PFedNC, a proportional fairness-aware federated learning framework for node classification in SIoT system. Specifically, we incorporate proportional fairness and related Nash bargaining solution into FL optimization objective, which imposes more fairness while maintaining a similar average performance. Moreover, we design a class-balanced re-weighting loss function to mitigate imbalanced class distribution caused by non-IID node distribution. Extensive experiments on two node-level SIoT simulation datasets demonstrate that our PFedNC framework effectively encourages performance fairness among social groups and achieves a favorable tradeoff between fairness and efficiency.
+ER  - 
+
+TY  - JOUR
+TI  - TFD:Trust-Based Fraud Detection in SIoT With Graph Convolutional Networks
+T2  - IEEE Transactions on Consumer Electronics
+SP  - 1
+EP  - 1
+AU  - N. Jiang
+AU  - W. Gu
+AU  - L. Li
+AU  - F. Zhou
+AU  - S. Qiu
+AU  - T. Zhou
+AU  - H. Chen
+PY  - 2024
+KW  - Fraud
+KW  - Consumer electronics
+KW  - Social Internet of Things
+KW  - Security
+KW  - Feature extraction
+KW  - Convolution
+KW  - Symbols
+KW  - Trust
+KW  - SIoT
+KW  - fraud detection
+KW  - graph inconsistency
+KW  - privacy preserving
+DO  - 10.1109/TCE.2024.3417471
+JO  - IEEE Transactions on Consumer Electronics
+IS  - 
+SN  - 1558-4127
+VO  - 
+VL  - 
+JA  - IEEE Transactions on Consumer Electronics
+Y1  - 
+AB  - With the rapid development of Artificial Intelligence (AI) technology, its application in areas such as Social Internet of Things (SIoT) and e-commerce has become increasingly widespread. However, there are many uncertainties and potential risks in the widespread deployment of AIoT, and miscreants take advantage of these vulnerabilities to commit fraud on SIoT, which raises serious public concerns about security and privacy. Our work is dedicated to distinguishing fraudsters from consumers through fraud. Given the superior ability of Graph Neural Networks (GNN) in modeling network environments, it has become an important tool in the field of fraud detection. In this work, we propose a fraud detection method based on potential trust between users in SIoT, which combines the graph structure of SIoT with pairwise trust relationships between users. Specifically, we construct an end-to-end framework that utilizes Graph Convolutional Networks (GCNs) to learn and mine potential trust patterns in different social relationships. Further, a trust-aware neighborhood difference aggregation method is introduced by us to significantly distinguish normal consumers from fraudsters. To cope with the class imbalance problem, we employ an imbalance-aware loss function for optimization. Extensive experiments on two datasets confirm that our model is very effective compared to existing techniques.
+ER  - 
+
+TY  - JOUR
+TI  - A Privacy-Preserving Federated Learning for Multiparty Data Sharing in Social IoTs
+T2  - IEEE Transactions on Network Science and Engineering
+SP  - 2706
+EP  - 2718
+AU  - L. Yin
+AU  - J. Feng
+AU  - H. Xun
+AU  - Z. Sun
+AU  - X. Cheng
+PY  - 2021
+KW  - Privacy
+KW  - Encryption
+KW  - Differential privacy
+KW  - Training
+KW  - Data privacy
+KW  - Servers
+KW  - Deep learning
+KW  - Multiparty data sharing
+KW  - federated learning
+KW  - privacy-preserving
+KW  - functional encryption
+KW  - local differential privacy
+DO  - 10.1109/TNSE.2021.3074185
+JO  - IEEE Transactions on Network Science and Engineering
+IS  - 3
+SN  - 2327-4697
+VO  - 8
+VL  - 8
+JA  - IEEE Transactions on Network Science and Engineering
+Y1  - 1 July-Sept. 2021
+AB  - As 5G and mobile computing are growing rapidly, deep learning services in the Social Computing and Social Internet of Things (IoT) have enriched our lives over the past few years. Mobile devices and IoT devices with computing capabilities can join social computing anytime and anywhere. Federated learning allows for the full use of decentralized training devices without the need for raw data, providing convenience in breaking data silos further and delivering more precise services. However, the various attacks illustrate that the current training process of federal learning is still threatened by disclosures at both the data and content levels. In this paper, we propose a new hybrid privacy-preserving method for federal learning to meet the challenges above. First, we employ an advanced function encryption algorithm that not only protects the characteristics of the data uploaded by each client, but also protects the weight of each participant in the weighted summation procedure. By designing local Bayesian differential privacy, the noise mechanism can effectively improve the adaptability of different distributed data sets. In addition, we also use Sparse Differential Gradient to improve the transmission and storage efficiency in federal learning training. Experiments show that when we use the sparse differential gradient to improve the transmission efficiency, the accuracy of the model is only dropped by 3% at most.
+ER  - 
+
+TY  - CONF
+TI  - Reputation-enabled Federated Learning Model Aggregation in Mobile Platforms
+T2  - ICC 2021 - IEEE International Conference on Communications
+SP  - 1
+EP  - 6
+AU  - Y. Wang
+AU  - B. Kantarci
+PY  - 2021
+KW  - Training
+KW  - Computational modeling
+KW  - Neural networks
+KW  - Data aggregation
+KW  - Collaborative work
+KW  - Data models
+KW  - Distance measurement
+KW  - Distributed Learning
+KW  - Mobile Networks
+KW  - Federated Learning
+KW  - Deep Neural Networks
+KW  - Deep Learning
+KW  - Reputation systems
+DO  - 10.1109/ICC42927.2021.9500928
+JO  - ICC 2021 - IEEE International Conference on Communications
+IS  - 
+SN  - 1938-1883
+VO  - 
+VL  - 
+JA  - ICC 2021 - IEEE International Conference on Communications
+Y1  - 14-23 June 2021
+AB  - Federated Learning (FL) builds on a mobile network of participating nodes that train local models and contribute to the learning model parameters at a central server without being obliged to share their raw data. The server aggregates the uploaded model parameters to generate a global model. Common practice for the uploaded local models is an evenly weighted aggregation, assuming that each node of the network contributes to advancing the global model equally. Due to the heterogeneous nature of the devices and collected data, it is inevitable to have variations between the contributions of the users to the global model. Therefore, users (i.e., devices) with higher contributions should be weighted higher during aggregation. With this in mind, this paper proposes a reputation-enabled aggregation methodology that scales the aggregation weights of users by their reputation scores. Reputation score of a user is computed according to the performance metrics of their trained local models during each training round, therefore it can be a metric to evaluate the direct contributions of their trained local model. Numerical comparison of the proposed aggregation methodology to a baseline that utilizes standard averaging as well as a second baseline that is scoped to a reputation-based client selection shows an improvement of 17.175% over the standard baseline for not independent and identically distributed (non-IID) scenarios for an FL network of 100 participants. Consistent improvements over the first and second baselines under smaller FL networks with users ranging from 20 to 100 are also shown.
+ER  - 
+
+TY  - JOUR
+TI  - FedVCP: A Federated-Learning-Based Cooperative Positioning Scheme for Social Internet of Vehicles
+T2  - IEEE Transactions on Computational Social Systems
+SP  - 197
+EP  - 206
+AU  - X. Kong
+AU  - H. Gao
+AU  - G. Shen
+AU  - G. Duan
+AU  - S. K. Das
+PY  - 2022
+KW  - Global Positioning System
+KW  - Collaborative work
+KW  - Transfer learning
+KW  - Edge computing
+KW  - Data models
+KW  - Computational modeling
+KW  - Sensors
+KW  - Collaborative edge computing (CEC)
+KW  - cooperative positioning (CP)
+KW  - federated learning
+KW  - Internet of Vehicles
+DO  - 10.1109/TCSS.2021.3062053
+JO  - IEEE Transactions on Computational Social Systems
+IS  - 1
+SN  - 2329-924X
+VO  - 9
+VL  - 9
+JA  - IEEE Transactions on Computational Social Systems
+Y1  - Feb. 2022
+AB  - Intelligent vehicle applications, such as autonomous driving and collision avoidance, put forward a higher demand for precise positioning of vehicles. The current widely used global navigation satellite systems (GNSS) cannot meet the precision requirements of the submeter level. Due to the development of sensing techniques and vehicle-to-infrastructure (V2I) communications, some vehicles can interact with surrounding landmarks to achieve precise positioning. Existing work aims to realize the positioning correction of common vehicles by sharing the positioning data of sensor-rich vehicles. However, the privacy of trajectory data makes it difficult to collect and train data centrally. Moreover, uploading vehicle location data wastes network resources. To fill these gaps, this article proposes a vehicle cooperative positioning (CP) system based on federated learning (FedVCP), which makes full use of the potential of social Internet of Things (IoT) and collaborative edge computing (CEC) to provide high-precision positioning correction while ensuring user privacy. To the best of our knowledge, this article is the first attempt to solve the privacy of CP from a perspective of federated learning. In addition, we take the advantages of local cooperation through vehicle-to-vehicle (V2V) communications in data augmentation. For individual differences in vehicle positioning, we utilize transfer learning to eliminate the impact of such differences. Extensive experiments on real data demonstrate that our proposed model is superior to the baseline method in terms of effectiveness and convergence speed.
+ER  - 
+
+TY  - CONF
+TI  - Efficient Communication Topology via Partially Differential Privacy for Decentralized Learning
+T2  - 2021 International Conference on Computer Communications and Networks (ICCCN)
+SP  - 1
+EP  - 9
+AU  - C. -W. Ching
+AU  - H. -S. Huang
+AU  - C. -A. Yang
+AU  - Y. -C. Liu
+AU  - J. -J. Kuo
+PY  - 2021
+KW  - Training
+KW  - Performance evaluation
+KW  - Differential privacy
+KW  - Social networking (online)
+KW  - Network topology
+KW  - Data security
+KW  - Topology
+KW  - Social Internet-of-Things
+KW  - Decentralized Learning
+KW  - Communication Topology
+KW  - Partially Differential Privacy
+DO  - 10.1109/ICCCN52240.2021.9522327
+JO  - 2021 International Conference on Computer Communications and Networks (ICCCN)
+IS  - 
+SN  - 2637-9430
+VO  - 
+VL  - 
+JA  - 2021 International Conference on Computer Communications and Networks (ICCCN)
+Y1  - 19-22 July 2021
+AB  - Decentralized learning (DL) allows IoT devices to exchange local model updates with only their neighboring devices instead of sending their model updates to a central server for aggregation. However, current DL frameworks cannot support the emerging Social IoT(SIoT) paradigm since SIoT devices exchange model updates with only social neighbors based on specific social relations (e.g., ownership and parental relationships). Conversely, sharing model updates with non-social neighbors can improve training performance but may violate social relations. Differential privacy (DP) is thus engaged with DL to ensure data security, while excessive devices engaging DP may downgrade the training performance. However, most research neglects the effect of neighbor selection for each device based on social networks, physical networks, and DP. Therefore, in this paper, we explore the non-trivial relation among the above factors to present a DL framework, DeepPrivacy, and prove its convergence rate and DP. Then, we formulate a novel optimization problem, CoTOPO, to find an efficient communication topology 1 for model updates exchange among devices in DL, and propose an algorithm, AutoTag, for CoTOPO. Last, experiment results manifest that DeepPrivacy and AutoTag combined outperform the state of the art in terms of convergence rate and physical training time significantly on CIFAR10 and FMNIST.
+ER  - 
+
+TY  - JOUR
+TI  - A Novel Resource Management Framework for Blockchain-Based Federated Learning in IoT Networks
+T2  - IEEE Transactions on Sustainable Computing
+SP  - 1
+EP  - 12
+AU  - A. Mishra
+AU  - Y. Garg
+AU  - O. J. Pandey
+AU  - M. K. Shukla
+AU  - A. V. Vasilakos
+AU  - R. M. Hegde
+PY  - 2024
+KW  - Internet of Things
+KW  - Blockchains
+KW  - Training
+KW  - Computational modeling
+KW  - Servers
+KW  - Mobile handsets
+KW  - Data models
+KW  - Actor-critic reinforcement learning
+KW  - and exploration-exploitation
+KW  - blockchain
+KW  - federated learning
+KW  - internet of things (IoT)
+KW  - queuing theory
+KW  - resource managemnet
+DO  - 10.1109/TSUSC.2024.3358915
+JO  - IEEE Transactions on Sustainable Computing
+IS  - 
+SN  - 2377-3782
+VO  - 
+VL  - 
+JA  - IEEE Transactions on Sustainable Computing
+Y1  - 
+AB  - At present, the centralized learning models, used for IoT applications generating large amount of data, face several challenges such as bandwidth scarcity, more energy consumption, increased uses of computing resources, poor connectivity, high computational complexity, reduced privacy, and large latency towards data transfer. In order to address the aforementioned challenges, Blockchain-Enabled Federated Learning Networks (BFLNs) emerged recently, which deal with trained model parameters only, rather than raw data. BFLNs provide enhanced security along with improved energy-efficiency and Quality-of-Service (QoS). However, BFLNs suffer with the challenges of exponential increased action space in deciding various parameter levels towards training and block generation. Motivated by aforementioned challenges of BFLNs, in this work, we are proposing an actor-critic Reinforcement Learning (RL) method to model the Machine Learning Model Owner (MLMO) in selecting the optimal set of parameter levels, addressing the challenges of exponential grow of action space in BFLNs. Further, due to the implicit entropy exploration, actor-critic RL method balances the exploration-exploitation trade-off and shows better performance than most off-policy methods, on large discrete action spaces. Therefore, in this work, considering the mobile scenario of the devices, MLMO decides the data and energy levels that the mobile devices use for the training and determine the block generation rate. This leads to minimized system latency and reduced overall cost, while achieving the target accuracy. Specifically, we have used Proximal Policy Optimization (PPO) as an on-policy actor-critic method with it's two variants, one based on Monte Carlo (MC) returns and another based on Generalized Advantage Estimate (GAE). We analyzed that PPO has better exploration and sample efficiency, lesser training time, and consistently higher cumulative rewards, when compared to off-policy Deep Q-Network (DQN).
+ER  - 
+
+TY  - JOUR
+TI  - Friend-as-Learner: Socially-Driven Trustworthy and Efficient Wireless Federated Edge Learning
+T2  - IEEE Transactions on Mobile Computing
+SP  - 269
+EP  - 283
+AU  - X. Lin
+AU  - J. Wu
+AU  - J. Li
+AU  - X. Zheng
+AU  - G. Li
+PY  - 2023
+KW  - Social networking (online)
+KW  - Wireless communication
+KW  - Task analysis
+KW  - Resource management
+KW  - Artificial intelligence
+KW  - Wireless sensor networks
+KW  - Internet of Things
+KW  - Social trust
+KW  - federated edge learning
+KW  - resource allocation
+KW  - incentive mechanism
+DO  - 10.1109/TMC.2021.3074816
+JO  - IEEE Transactions on Mobile Computing
+IS  - 1
+SN  - 1558-0660
+VO  - 22
+VL  - 22
+JA  - IEEE Transactions on Mobile Computing
+Y1  - 1 Jan. 2023
+AB  - Recently, wireless edge networks have realized intelligent operation and management with edge artificial intelligence (AI) techniques (i.e., federated edge learning). However, the trustworthiness and effective incentive mechanisms of federated edge learning (FEL) have not been fully studied. Thus, the current FEL framework will still suffer untrustworthy or low-quality learning parameters from malicious or inactive learners, which undermines the viability and stability of FEL. To address these challenges, the potential social attributes among edge devices and their users can be exploited, while not included in previous works. In this paper, we propose a novel Social Federated Edge Learning framework (SFEL) over wireless networks, which recruits trustworthy social friends as learning partners. First, we build a social graph model to find like-minded friends, comprehensively considering the mutual trust and learning task similarity. Besides, we propose a social effect based incentive mechanism for better personal federated learning behaviors with both complete and incomplete information. Finally, we conduct extensive simulations with the Erdos-Renyi random network, the Facebook network, and the classic MNIST/CIFAR-10 datasets. Simulation results demonstrate our framework could realize trustworthy and efficient federated learning over wireless edge networks, and it is superior to the existing FEL incentive mechanisms that ignore social effects.
+ER  - 
+
+TY  - JOUR
+TI  - Distributed Learning on Mobile Devices: A New Approach to Data Mining in the Internet of Things
+T2  - IEEE Internet of Things Journal
+SP  - 10264
+EP  - 10279
+AU  - X. Zhang
+AU  - X. Zhu
+AU  - W. Bao
+AU  - L. T. Yang
+AU  - J. Wang
+AU  - H. Yan
+AU  - H. Chen
+PY  - 2021
+KW  - Mobile handsets
+KW  - Data mining
+KW  - Internet of Things
+KW  - Deep learning
+KW  - Servers
+KW  - Training
+KW  - Computational modeling
+KW  - Distributed learning
+KW  - edge intelligence
+KW  - Internet of Things (IoT)
+KW  - mobile devices
+DO  - 10.1109/JIOT.2020.3030783
+JO  - IEEE Internet of Things Journal
+IS  - 13
+SN  - 2327-4662
+VO  - 8
+VL  - 8
+JA  - IEEE Internet of Things Journal
+Y1  - 1 July1, 2021
+AB  - It is well known that deep learning is one of the most important methods for data mining. With the development of the fifth-generation mobile networks (5G) and the Internet of Things (IoT), the large volume of data collected in IoTs provides a new way to improve the capability of deep learning. Due to privacy, bandwidth, and legal concerns, it is impractical to send the data to a server or the cloud. The computing power of mobile devices makes it possible to process the data. Therefore, this article focuses on training these models in mobile devices. To solve the challenges, including unreliable networks, constrained resources, and slow convergence, we let multiple mobile devices learn a shared model collaboratively. We propose a novel architecture, GREAT, where each node chooses partners to share local model parameters according to link reliability. To balance the constrained resources and learning effectiveness, an optimization problem is developed by taking the reliability threshold as the variable of controlling the resources’ overhead. To implement this architecture, a dynamic control algorithm called Alpha-GossipSGD has been proposed. Its performance is evaluated by extensive experiments, which show that Alpha-GossipSGD can realize stable learning effectiveness over unreliable networks with constrained resources.
+ER  - 
+
+TY  - JOUR
+TI  - Federated Multitask Learning for Pedestrian Location-Aware 5G Multicast/Broadcast Services
+T2  - IEEE Transactions on Broadcasting
+SP  - 66
+EP  - 77
+AU  - Z. Jing
+AU  - J. Mu
+AU  - J. Jin
+AU  - Z. Jiao
+AU  - P. Yu
+PY  - 2024
+KW  - 5G mobile communication
+KW  - Pedestrians
+KW  - Real-time systems
+KW  - Data models
+KW  - Computational modeling
+KW  - Location awareness
+KW  - Training
+KW  - Federated multitask learning
+KW  - location service
+KW  - 5G multicast/broadcast
+DO  - 10.1109/TBC.2023.3332012
+JO  - IEEE Transactions on Broadcasting
+IS  - 1
+SN  - 1557-9611
+VO  - 70
+VL  - 70
+JA  - IEEE Transactions on Broadcasting
+Y1  - March 2024
+AB  - 5G multicast/broadcast services can provide transformative new opportunities as mobile devices proliferate. However, realizing the full potential of these services requires real-time pedestrian localization. We propose a federated multitask learning (FML) approach on smartphones to enable pedestrian location-aware 5G multicast/broadcast services. Our lightweight FML architecture provides accurate real-time localization while preserving privacy. The pedestrian location data enables adaptive 5G network planning, contextual location-based services, quality of service improvements, and load balancing. Simulations demonstrate the effectiveness of our FML scheme for accurate pedestrian localization. They also highlight significant enhancements to 5G multicast/broadcast services enabled by real-time pedestrian positioning. In summary, our work facilitates enhanced 5G multicast/broadcast services through federated on-device learning for real-time pedestrian localization.
+ER  - 
+
+

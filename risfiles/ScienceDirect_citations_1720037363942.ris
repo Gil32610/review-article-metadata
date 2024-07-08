@@ -1,0 +1,21 @@
+TY  - JOUR
+T1  - HBFL: A hierarchical blockchain-based federated learning framework for collaborative IoT intrusion detection
+AU  - Sarhan, Mohanad
+AU  - Lo, Wai Weng
+AU  - Layeghy, Siamak
+AU  - Portmann, Marius
+JO  - Computers and Electrical Engineering
+VL  - 103
+SP  - 108379
+PY  - 2022
+DA  - 2022/10/01/
+SN  - 0045-7906
+DO  - https://doi.org/10.1016/j.compeleceng.2022.108379
+UR  - https://www.sciencedirect.com/science/article/pii/S0045790622005961
+KW  - Blockchain
+KW  - Cyber threat intelligence
+KW  - Hierarchical federated learning
+KW  - IoT intrusion detection
+KW  - Smart contract
+AB  - The continuous strengthening of the security posture of Internet of Things (IoT) ecosystems is vital due to the increasing number of interconnected devices and the volume of sensitive data shared. Using Machine Learning (ML) capabilities to defend against IoT cyber attacks has many potential benefits. However, the currently proposed frameworks do not consider data privacy, secure architectures, and scalable deployments of IoT ecosystems. This paper proposes a hierarchical blockchain-based federated learning framework to enable secure and privacy-preserved collaborative IoT intrusion detection. We highlight and demonstrate the importance of sharing cyber threat intelligence among inter-organisational IoT networks to improve the model’s detection capabilities. The proposed ML-based intrusion detection framework follows a hierarchical federated learning architecture to ensure the privacy of the learning process and organisational data. The transactions (model updates) and processes will run on a secure blockchain, and the smart contract will verify the conformance of executed tasks. We have tested our solution and demonstrated its feasibility by implementing it and evaluating the intrusion detection performance using a key IoT data set. The outcome is a securely designed ML-based intrusion detection system capable of detecting a wide range of malicious activities while preserving data privacy.
+ER  - 
