@@ -1,0 +1,899 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Delnevo, G
+   Girau, R
+   Ceccarini, C
+   Prandi, C
+AF Delnevo, Giovanni
+   Girau, Roberto
+   Ceccarini, Chiara
+   Prandi, Catia
+TI A Deep Learning and Social IoT Approach for Plants Disease Prediction
+   Toward a Sustainable Agriculture
+SO IEEE INTERNET OF THINGS JOURNAL
+LA English
+DT Article
+DE Diseases; Internet of Things; Agriculture; Sensors; Deep learning; Smart
+   phones; Plants (biology); Deep learning; plant disease detection; plant
+   disease prediction; Social Internet of Things (SIoT)
+ID NETWORKS; INTERNET; THINGS
+AB As the world becomes increasingly interconnected, emerging and innovative sensing technologies are shaping the future of agriculture, with a special focus on sustainability-related issues. In this context, we envision the possibility to exploit Social Internet of Things for sensing of environmental conditions (solar radiation, humidity, air temperature, and soil moisture) and communications, deep learning for plant disease detection, and crowdsourcing for images collection and classification, engaging farmers and community garden owners and experts. Through, data fusion and deep learning, the designed system can exploit the collected data and predict when a plant would (or not) get a disease, with a specific degree of precision, with the final purpose to render agriculture more sustainable. We here present the architecture, the deep learning model, and the responsive Web app. Finally, some experimental evaluations and usability/engagement tests are reported and discussed, together with final remarks, limitations, and future work.
+C1 [Delnevo, Giovanni; Girau, Roberto; Ceccarini, Chiara; Prandi, Catia] Univ Bologna, Dept Comp Sci & Engn, I-40126 Bologna, Italy.
+   [Prandi, Catia] ITI, LARSyS, P-9020105 Funchal, Portugal.
+C3 University of Bologna
+RP Girau, R (corresponding author), Univ Bologna, Dept Comp Sci & Engn, I-40126 Bologna, Italy.
+EM giovanni.delnevo2@unibo.it; roberto.girau@unibo.it;
+   chiara.ceccarini6@unibo.it; catia.prandi2@unibo.it
+RI Prandi, Catia/KIB-1268-2024; Ceccarini, Chiara/ADI-6093-2022; Girau,
+   Roberto/AAB-9653-2020
+OI Prandi, Catia/0000-0002-5566-2269; Ceccarini,
+   Chiara/0000-0001-9743-5833; Girau, Roberto/0000-0002-1298-7960; Delnevo,
+   Giovanni/0000-0001-6640-5746
+NR 41
+TC 32
+Z9 32
+U1 10
+U2 41
+PU IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+PI PISCATAWAY
+PA 445 HOES LANE, PISCATAWAY, NJ 08855-4141 USA
+SN 2327-4662
+J9 IEEE INTERNET THINGS
+JI IEEE Internet Things J.
+PD MAY 15
+PY 2022
+VL 9
+IS 10
+BP 7243
+EP 7250
+DI 10.1109/JIOT.2021.3097379
+PG 8
+WC Computer Science, Information Systems; Engineering, Electrical &
+   Electronic; Telecommunications
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science; Engineering; Telecommunications
+GA 1R1EN
+UT WOS:000803121100018
+OA Green Submitted
+DA 2024-07-23
+ER
+
+PT J
+AU Hamrouni, A
+   Khanfor, A
+   Ghazzai, H
+   Massoud, Y
+AF Hamrouni, Aymen
+   Khanfor, Abdullah
+   Ghazzai, Hakim
+   Massoud, Yehia
+TI Context-Aware Service Discovery: Graph Techniques for IoT Network
+   Learning and Socially Connected Objects
+SO IEEE ACCESS
+LA English
+DT Article
+DE Smart cities; Security; Graph neural networks; Semantics; STEM; Context
+   awareness; Social Internet of Things; Community detection; service
+   discovery; graph neural networks; social Internet of Things
+ID ENABLING TECHNOLOGIES; RECRUITMENT; INTERNET; THINGS
+AB Adopting Internet-of-things (IoT) in large-scale environments such as smart cities raises compatibility and trustworthiness challenges, hindering conventional service discovery and network navigability processes. The IoT network is known for its highly dynamic topology and frequently changing characteristics (e.g., the devices' status, such as battery capacity and computational power); traditional methods fail to learn and understand the evolving behavior of the network to enable real-time and context-aware service discovery in such diverse and large-scale topologies of IoT networks. The Social IoT (SIoT) concept, which defines the relationships among the connected objects, can be exploited to extract established relationships between devices and enable trustworthy and context-aware services. In fact, SIoT expresses the possible connections that devices can establish in the network and reflect compatibility, trustworthiness, and so on. In this paper, we investigate the service discovery process in SIoT networks by proposing a low-complexity context-aware Graph Neural Network (GNN) approach to enable rapid and dynamic service discovery. Unlike the conventional graph-based techniques, the proposed approach simultaneously embeds the devices' features and their SIoT relations. Our simulations on a real-world IoT dataset show that the proposed GNN-based approach can provide more concise clusters compared to traditional techniques, namely the Louvain and Leiden algorithms. This allows a better IoT network learning and understanding and also, speeds up the service lookup search space. Finally, we discuss implementing the GNN-assisted context-service discovery processes in novel smart city IoT-enabled applications.
+C1 [Hamrouni, Aymen; Ghazzai, Hakim; Massoud, Yehia] King Abdullah Univ Sci & Technol KAUST, Innovat Technol Labs ITL, Thuwal 23955, Saudi Arabia.
+   [Khanfor, Abdullah] Najran Univ, Coll Comp Sci & Informat Syst, Najran 55461, Saudi Arabia.
+C3 King Abdullah University of Science & Technology; Najran University
+RP Massoud, Y (corresponding author), King Abdullah Univ Sci & Technol KAUST, Innovat Technol Labs ITL, Thuwal 23955, Saudi Arabia.
+EM yehia.massoud@kaust.edu.sa
+RI Khanfor, Abdullah/AAB-9295-2020; Hamrouni, Aymen/ABD-4328-2020; Ghazzai,
+   Hakim/K-2518-2019
+OI Khanfor, Abdullah/0000-0001-8592-5309; Hamrouni,
+   Aymen/0000-0002-8490-7878; Ghazzai, Hakim/0000-0002-8636-4264; Massoud,
+   Yehia/0000-0002-6701-0639
+NR 70
+TC 2
+Z9 2
+U1 8
+U2 15
+PU IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+PI PISCATAWAY
+PA 445 HOES LANE, PISCATAWAY, NJ 08855-4141 USA
+SN 2169-3536
+J9 IEEE ACCESS
+JI IEEE Access
+PY 2022
+VL 10
+BP 107330
+EP 107345
+DI 10.1109/ACCESS.2022.3212370
+PG 16
+WC Computer Science, Information Systems; Engineering, Electrical &
+   Electronic; Telecommunications
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science; Engineering; Telecommunications
+GA 5J0BO
+UT WOS:000868713100001
+DA 2024-07-23
+ER
+
+PT J
+AU Guo, ZW
+   Yu, KP
+   Li, Y
+   Srivastava, G
+   Lin, JCW
+AF Guo, Zhiwei
+   Yu, Keping
+   Li, Yu
+   Srivastava, Gautam
+   Lin, Jerry Chun-Wei
+TI Deep Learning-Embedded Social Internet of Things for Ambiguity-Aware
+   Social Recommendations
+SO IEEE TRANSACTIONS ON NETWORK SCIENCE AND ENGINEERING
+LA English
+DT Article
+DE Data models; Computer architecture; Social networking (online); Internet
+   of Things; Encoding; Social computing; Graph neural networks; Deep
+   learning; graph neural networks; social IoT; social computing
+ID SPAMMER DETECTION; NEURAL-NETWORK; IMPLICIT; EXPLICIT
+AB With the increasing demand of users for personalized social services, social recommendation (SR) has been an important concern in academia. However, current research on SR universally faces two main challenges. On the one hand, SR lacks the considerable ability of robust online data management. On the other hand, SR fails to take the ambiguity of preference feedback into consideration. To bridge these gaps, a deep learning-embedded social Internet of Things (IoT) is proposed for ambiguity-aware SR (SIoT-SR). Specifically, a social IoT architecture is developed for social computing scenarios to guarantee reliable data management. A deep learning-based graph neural network model that can be embedded into the model is proposed as the core algorithm to perform ambiguity-aware SR. This design not only provides proper online data sensing and management but also overcomes the preference ambiguity problem in SR. To evaluate the performance of the proposed SIoT-SR, two real-world datasets are selected to establish experimental scenarios. The method is assessed using three different metrics, selecting five typical methods as benchmarks. The experimental results show that the proposed SIoT-SR performs better than the benchmark methods by at least 10% and has good robustness.
+C1 [Guo, Zhiwei; Li, Yu] Chongqing Technol & Business Univ, Natl Res Base Intelligent Mfg Serv, Chongqing Engn Lab Detect Control & Integrated Sy, Chongqing 400067, Peoples R China.
+   [Yu, Keping] Waseda Univ, Global Informat & Telecommun Inst, Shinjuku Ku, Tokyo 1698050, Japan.
+   [Srivastava, Gautam] Brandon Univ, Dept Comp Sci, Brandon, MB R7A 6A9, Canada.
+   [Srivastava, Gautam] China Med Univ, Res Ctr Interneural Comp, Taichung 40402, Taiwan.
+   [Lin, Jerry Chun-Wei] Western Norway Univ Appl Sci, Dept Comp Sci Elect Engn & Math Sci, N-5063 Bergen, Norway.
+C3 Chongqing Technology & Business University; Waseda University; Brandon
+   University; China Medical University Taiwan; Western Norway University
+   of Applied Sciences
+RP Yu, KP (corresponding author), Waseda Univ, Global Informat & Telecommun Inst, Shinjuku Ku, Tokyo 1698050, Japan.
+EM zwguo@ctbu.edu.cn; keping.yu@aoni.waseda.jp; liyu@ctbu.edu.cn;
+   srivastavag@brandonu.ca; jerrylin@ieee.org
+RI Guo, Zhiwei/GQH-2781-2022; Srivastava, Gautam/N-5668-2019; Yu,
+   Keping/GVT-7847-2022
+OI Guo, Zhiwei/0000-0001-8868-6913; Srivastava, Gautam/0000-0001-9851-4103;
+   Yu, Keping/0000-0001-5735-2507; Lin, Jerry Chun-Wei/0000-0001-8768-9709
+FU State Language Commission Research Program of China [YB135-121];
+   Chongqing Natural Science Foundation of China [cstc2019jcyj-msxmX0747];
+   Science and Technology Research Program of Chongqing Municipal Education
+   Commission [KJQN202000805]; Japan Society for the Promotion of Science
+   (JSPS) [JP18K18044]; National Natural Science Foundation of China [61
+   901 067]; Key Research Project of Chongqing Technology and Business
+   University [ZDPTTD201917, 1953013]
+FX This work was supported in part by the State Language Commission
+   Research Program of China under grant YB135-121, in part by the
+   Chongqing Natural Science Foundation of China under grant
+   cstc2019jcyj-msxmX0747, in part by the Science and Technology Research
+   Program of Chongqing Municipal Education Commission under grant
+   KJQN202000805, in part by the Japan Society for the Promotion of Science
+   (JSPS) Grants-in-Aid for Scientific Research (KAKENHI) under grant
+   JP18K18044, in part by the National Natural Science Foundation of China
+   under grant 61 901 067, and in part by the Key Research Project of
+   Chongqing Technology and Business University under grant ZDPTTD201917
+   and grant 1953013. Recommended for acceptance by Dr. Ching-Hsien Hsu.
+NR 35
+TC 90
+Z9 92
+U1 3
+U2 65
+PU IEEE COMPUTER SOC
+PI LOS ALAMITOS
+PA 10662 LOS VAQUEROS CIRCLE, PO BOX 3014, LOS ALAMITOS, CA 90720-1314 USA
+SN 2327-4697
+J9 IEEE T NETW SCI ENG
+JI IEEE Trans. Netw. Sci. Eng.
+PD MAY-JUN
+PY 2022
+VL 9
+IS 3
+BP 1067
+EP 1081
+DI 10.1109/TNSE.2021.3049262
+PG 15
+WC Engineering, Multidisciplinary; Mathematics, Interdisciplinary
+   Applications
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Engineering; Mathematics
+GA 1M8FH
+UT WOS:000800200900013
+OA Green Submitted
+DA 2024-07-23
+ER
+
+PT J
+AU Jing, PG
+   Zhang, K
+   Liu, XY
+   Li, Y
+   Liu, Y
+   Su, YT
+AF Jing, Peiguang
+   Zhang, Kai
+   Liu, Xianyi
+   Li, Yun
+   Liu, Yu
+   Su, Yuting
+TI Dual Preference Perception Network for Fashion Recommendation in Social
+   Internet of Things
+SO IEEE INTERNET OF THINGS JOURNAL
+LA English
+DT Article
+DE Social Internet of Things; Smart homes; Task analysis; Transformers;
+   Motion pictures; Clothing; Graph neural networks; Fashion
+   recommendation; heterogeneous graph; preference perception; Social
+   Internet of Things (SIoT)
+AB Nowadays, with the continuous development of information technology, the application scenarios of the Internet of Things (IoT) are progressively expanding to the social field, engendering widespread attention to the Social IoT (SIoT). Personalized fashion recommendation that possesses the potential to establish social relationships between clothing and humans has substantially broadened the scope of the SIoT, particularly with the flourishing fashion industry and the ascent of smart home. Compared to conventional recommendations, fashion recommendation generally suggests a collection of items rather than individual pieces for users. Additionally, considering the public acceptance alongside the user-specific preference is reasonable for fashion recommendation, however, current methods often overlook the former. To comprehensively capture the public acceptance and the user-specific preference, we propose a dual preference perception network (DP2Net) for fashion recommendation. First, a fashion corpus is constructed to facilitate the condensation of general taste, wherein adversarial learning and determinantal point process are leveraged to ensure representativeness and diversity of the corpus. Second, a user-general preference perception module is built based on a bottleneck transformer structure to generate aggregated representations for the corpus. Third, a user-specific preference perception module is constructed to acquire collaborative representations of users and outfits by employing an attentive heterogeneous graph embedding. The final loss functions of two preference perception modules are constructed by combining the representations of users, outfits, and the corpus. Experiments on large-scale real-world data sets demonstrate the effectiveness of the proposed method. To facilitate reproducible research, we have made our code publicly available at https://github.com/KaiZhang1228/DP2Net.
+C1 [Jing, Peiguang; Zhang, Kai; Liu, Xianyi; Su, Yuting] Tianjin Univ, Sch Elect & Informat Engn, Tianjin 300072, Peoples R China.
+   [Jing, Peiguang] Guangxi Normal Univ, Guangxi Key Lab Multi Source Informat Min & Secur, Guilin 541004, Peoples R China.
+   [Li, Yun] Guangxi Univ Finance & Econ, Sch Big Data & Artificial Intelligence, Nanning 530001, Peoples R China.
+   [Liu, Yu] Tianjin Univ, Sch Microelect, Tianjin 300072, Peoples R China.
+C3 Tianjin University; Guangxi Normal University; Guangxi University of
+   Finance & Economics; Tianjin University
+RP Su, YT (corresponding author), Tianjin Univ, Sch Elect & Informat Engn, Tianjin 300072, Peoples R China.
+EM pgjing@tju.edu.cn; huangtt@tju.edu.cn; goog@tju.edu.cn;
+   liyun@guat.edu.cn; liuyu@tju.edu.cn; ytsu@tju.edu.cn
+OI Liu, Xianyi/0000-0001-6284-9470; Jing, Peiguang/0000-0003-2648-7358;
+   Liu, Yu/0000-0002-5949-6587
+FU Research Fund of Guangxi Key Laboratory of Multi-Source Information
+   Mining and Security [MIMS22-15]; National Natural Science Foundation of
+   China [62361002]
+FX This work was supported in part by the Research Fund of Guangxi Key
+   Laboratory of Multi-Source Information Mining and Security under Grant
+   MIMS22-15, and in part by the National Natural Science Foundation of
+   China under Grant 62361002. (Corresponding author: Yuting Su.)
+NR 59
+TC 0
+Z9 0
+U1 1
+U2 1
+PU IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+PI PISCATAWAY
+PA 445 HOES LANE, PISCATAWAY, NJ 08855-4141 USA
+SN 2327-4662
+J9 IEEE INTERNET THINGS
+JI IEEE Internet Things J.
+PD MAR 1
+PY 2024
+VL 11
+IS 5
+BP 7893
+EP 7903
+DI 10.1109/JIOT.2023.3319386
+PG 11
+WC Computer Science, Information Systems; Engineering, Electrical &
+   Electronic; Telecommunications
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science; Engineering; Telecommunications
+GA NW3X2
+UT WOS:001203463700036
+DA 2024-07-23
+ER
+
+PT J
+AU Wu, B
+   Zhong, LH
+   Yao, LN
+   Ye, YD
+AF Wu, Bin
+   Zhong, Lihong
+   Yao, Lina
+   Ye, Yangdong
+TI EAGCN: An Efficient Adaptive Graph Convolutional Network for Item
+   Recommendation in Social Internet of Things
+SO IEEE INTERNET OF THINGS JOURNAL
+LA English
+DT Article
+DE Internet of Things; Computational modeling; Collaboration; Adaptation
+   models; Task analysis; Training; Social networking (online); Graph
+   convolutional networks (GCNs); implicit feedback; nonsampling learning;
+   recommender systems; social Internet of Things (IoT)
+ID OF-THE-ART; ANOMALY DETECTION; RANKING; SYSTEMS; SCHEME; MODEL
+AB In the era of Internet of Things (IoT), intelligent recommendation is playing an important role in our daily life. How to provide personalized information to users is the core concern of Internet content service providers. To improve the recommendation quality, it is a hot topic to go beyond merely user-item interaction records and take social relations into account in IoT. Recently, emerged graph neural networks (GNNs) shine a light on simulating the recursive social diffusion process, to refine user embedding learning. Nevertheless, two key issues have not been well studied in previous studies: 1) they usually model user preference and social influence within a same semantic space and fail to simultaneously inject high-order connectivity information reflected in both user-item interaction graph and user-user social graph and 2) they typically rely on negative sampling to optimize a recommendation model, which makes them highly sensitive to the design of the sampler and hardly makes full use of GPU's computing ability. In light of this, we propose a novel framework for item recommendation, namely, an efficient adaptive graph convolutional network (EAGCN). Specifically, we introduce a space-adaptive graph convolutional module, which could jointly explore the propagation process of user interest and social influence. Furthermore, a user-specific gating mechanism is designed to aggregate user representations from both spaces. To make EAGCN practical in social IoT, we devise a fast nonsampling leaner to optimize EAGCN's parameters with better leveraging matrix computing of GPU. Extensive experiments under four scenarios show that our solution consistently and significantly outperforms strong baseline methods in both model effectiveness and training efficiency.
+C1 [Wu, Bin; Zhong, Lihong; Ye, Yangdong] Zhengzhou Univ, Sch Comp & Artificial Intelligence, Zhengzhou 450001, Peoples R China.
+   [Yao, Lina] Univ New South Wales, Sch Comp Sci & Engn, Sydney, NSW 2052, Australia.
+C3 Zhengzhou University; University of New South Wales Sydney
+RP Ye, YD (corresponding author), Zhengzhou Univ, Sch Comp & Artificial Intelligence, Zhengzhou 450001, Peoples R China.
+EM wubin7019088@gmail.com; ielihongzhong@gs.zzu.edu.cn;
+   lina.yao@unsw.edu.au; yeyd@zzu.edu.cn
+RI Yao, Lina/AAH-5088-2019
+OI Yao, Lina/0000-0003-1018-5646; wu, bin/0000-0002-4722-4226
+FU National Natural Science Foundation of China [6210071281, 62176239,
+   61772475]
+FX This work was supported by the National Natural Science Foundation of
+   China under Grant 6210071281, Grant 62176239, and Grant 61772475.
+NR 67
+TC 21
+Z9 21
+U1 4
+U2 38
+PU IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+PI PISCATAWAY
+PA 445 HOES LANE, PISCATAWAY, NJ 08855-4141 USA
+SN 2327-4662
+J9 IEEE INTERNET THINGS
+JI IEEE Internet Things J.
+PD SEPT 1
+PY 2022
+VL 9
+IS 17
+BP 16386
+EP 16401
+DI 10.1109/JIOT.2022.3151400
+PG 16
+WC Computer Science, Information Systems; Engineering, Electrical &
+   Electronic; Telecommunications
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science; Engineering; Telecommunications
+GA 4C9BD
+UT WOS:000846738200076
+DA 2024-07-23
+ER
+
+PT J
+AU Lakshmanaprabu, SK
+   Shankar, K
+   Khanna, A
+   Gupta, D
+   Rodrigues, JJPC
+   Pinheiro, PR
+   De Albuquerque, VC
+AF Lakshmanaprabu, S. K.
+   Shankar, K.
+   Khanna, Ashish
+   Gupta, Deepak
+   Rodrigues, Joel J. P. C.
+   Pinheiro, Placido R.
+   De Albuquerque, Victorhugo C.
+TI Effective Features to Classify Big Data Using Social Internet of Things
+SO IEEE ACCESS
+LA English
+DT Article
+DE Internet of Things; social Internet of Things; machine Learning; big
+   data; feature selection
+ID DATA ANALYTICS; CLASSIFICATION
+AB Social Internet of Things (SIoT) supports many novel applications and networking services for the IoT in a more powerful and productiveway. In this paper, we have introduced a hierarchical framework for feature extraction in SIoT big data using map-reduced framework along with a supervised classifier model. Moreover, a Gabor filter is used to reduce noise and unwanted data from the database, and Hadoop Map Reduce has been used for mapping and reducing big databases, to improve the efficiency of the proposed work. Furthermore, the feature selection has been performed on a filtered data set by using Elephant Herd Optimization. The proposed system architecture has been implemented using Linear Kernel Support Vector Machine-based classifier to classify the data and for predicting the efficiency of the proposed work. From the results, the maximum accuracy, specificity, and sensitivity of our work is 98.2%, 85.88%, and 80%, moreover analyzed time and memory, and these results have been compared with the existing literature.
+C1 [Lakshmanaprabu, S. K.] BS Abdur Rahman Crescent Inst Sci & Technol, Dept Elect & Instrumentat Engn, Madras 600048, Tamil Nadu, India.
+   [Shankar, K.] Kalasalingam Acad Res & Educ, Sch Comp, Krishnankoil 626126, India.
+   [Khanna, Ashish; Gupta, Deepak] GGSIP Univ, Assistant Maharaja Agrasen Inst Technol, Delhi 110078, India.
+   [Rodrigues, Joel J. P. C.] Natl Inst Telecommun, BR-37540000 Santa Rita Do Sapucai, MG, Brazil.
+   [Rodrigues, Joel J. P. C.] Inst Telecomunicacoes, P-1049001 Lisbon, Portugal.
+   [Rodrigues, Joel J. P. C.] ITMO Univ, St Petersburg 197101, Russia.
+   [Pinheiro, Placido R.; De Albuquerque, Victorhugo C.] Univ Fortaleza, Grad Program Appl Informat, BR-60811905 Fortaleza, Ceara, Brazil.
+C3 B. S. Abdur Rahman Crescent Institute of Science & Technology;
+   Kalasalingam Academy of Research & Education; GGS Indraprastha
+   University; Instituto Nacional de Telecomunicacoes (INATEL); Instituto
+   de Telecomunicacoes; ITMO University; Universidade Fortaleza
+RP Rodrigues, JJPC (corresponding author), Natl Inst Telecommun, BR-37540000 Santa Rita Do Sapucai, MG, Brazil.; Rodrigues, JJPC (corresponding author), Inst Telecomunicacoes, P-1049001 Lisbon, Portugal.; Rodrigues, JJPC (corresponding author), ITMO Univ, St Petersburg 197101, Russia.
+EM joeljr@ieee.org
+RI Kathiresan, Shankar/Y-9178-2018; de Albuquerque, Victor Hugo
+   C./C-3677-2016; Khanna, Ashish/AAK-2968-2020; Gupta,
+   Deepak/AAV-2728-2020; Rodrigues, Joel J. P. C./A-8103-2013; Nasarian,
+   Elham/ISB-6863-2023; PINHEIRO, PLACIDO ROGERIO/J-7758-2019; Sk,
+   Lakshmanaprabu/L-1970-2018
+OI Kathiresan, Shankar/0000-0002-2803-3846; de Albuquerque, Victor Hugo
+   C./0000-0003-3886-4309; Gupta, Deepak/0000-0002-3019-7161; Rodrigues,
+   Joel J. P. C./0000-0001-8657-3800; PINHEIRO, PLACIDO
+   ROGERIO/0000-0002-1718-1712; Sk, Lakshmanaprabu/0000-0001-7844-462X;
+   Khanna, Ashish/0000-0002-8418-3929
+FU Fundacao para a Ciencia e a Tecnologia [UID/EEA/50008/2013]; Government
+   of Russian Federation [074-U01]; Brazilian National Council for Research
+   and Development [309335/2017-5, 301928/2014-2, 304315/2017-6]; Finep;
+   Funttel, through the Centro de Referencia em adiocomunicacoes-CRR
+   Project of the Instituto Nacional de Telecomunicacoes, Inatel, Brazil
+   [01.14.0231.00]
+FX This work was supported in part by the National Funding from the
+   Fundacao para a Ciencia e a Tecnologia Project under Grant
+   UID/EEA/50008/2013, in part by the Government of Russian Federation,
+   under Grant 074-U01, in part by the Brazilian National Council for
+   Research and Development under Grant309335/2017-5, Grant 301928/2014-2,
+   and Grant 304315/2017-6, and in part by Finep, with resources from
+   Funttel, through the Centro de Referencia em adiocomunicacoes-CRR
+   Project of the Instituto Nacional de Telecomunicacoes, Inatel, Brazil,
+   under Grant 01.14.0231.00.
+NR 21
+TC 86
+Z9 86
+U1 1
+U2 15
+PU IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+PI PISCATAWAY
+PA 445 HOES LANE, PISCATAWAY, NJ 08855-4141 USA
+SN 2169-3536
+J9 IEEE ACCESS
+JI IEEE Access
+PY 2018
+VL 6
+BP 24196
+EP 24204
+DI 10.1109/ACCESS.2018.2830651
+PG 9
+WC Computer Science, Information Systems; Engineering, Electrical &
+   Electronic; Telecommunications
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science; Engineering; Telecommunications
+GA GH6SH
+UT WOS:000433573800001
+OA gold
+DA 2024-07-23
+ER
+
+PT J
+AU Nie, LS
+   Wu, YX
+   Wang, XJ
+   Guo, L
+   Wang, GY
+   Gao, XB
+   Li, ST
+AF Nie, Laisen
+   Wu, Yixuan
+   Wang, Xiaojie
+   Guo, Lei
+   Wang, Guoyin
+   Gao, Xinbo
+   Li, Shengtao
+TI Intrusion Detection for Secure Social Internet of Things Based on
+   Collaborative Edge Computing: A Generative Adversarial Network-Based
+   Approach
+SO IEEE TRANSACTIONS ON COMPUTATIONAL SOCIAL SYSTEMS
+LA English
+DT Article
+DE Intrusion detection; Feature extraction; Gallium nitride; Image edge
+   detection; Generative adversarial networks; Deep learning; Internet of
+   Things; Collaborative edge computing (CEC); generative adversarial
+   network (GAN); intrusion detection; social internet of things (SIoT)
+ID DEEP LEARNING APPROACH; ANOMALY DETECTION; CLOUD; INTELLIGENCE
+AB The Social Internet of Things (SIoT) now penetrates our daily lives. As a strategy to alleviate the escalation of resource congestion, collaborative edge computing (CEC) has become a new paradigm for solving the needs of the Internet of Things (IoT). CEC can provide computing, storage, and network connection resources for remote devices. Because the edge network is closer to the connected devices, it involves a large amount of users' privacy. This also makes edge networks face more and more security issues, such as Denial-of-Service (DoS) attacks, unauthorized access, packet sniffing, and man-in-the-middle attacks. To combat these issues and enhance the security of edge networks, we propose a deep learning-based intrusion detection algorithm. Based on the generative adversarial network (GAN), we designed a powerful intrusion detection method. Our intrusion detection method includes three phases. First, we use the feature selection module to process the collaborative edge network traffic. Second, a deep learning architecture based on GAN is designed for intrusion detection aiming at a single attack. Finally, we propose a new intrusion detection model by combining several intrusion detection models that aim at a single attack. Intrusion detection aiming at multiple attacks is realized through the designed GAN-based deep learning architecture. Besides, we provide a comprehensive evaluation to verify the effectiveness of the proposed method.
+C1 [Nie, Laisen; Wu, Yixuan] Northwestern Polytech Univ, Sch Elect & Informat, Xian 710072, Peoples R China.
+   [Wang, Xiaojie; Guo, Lei] Chongqing Univ Posts & Telecommun, Sch Commun & Informat Engn, Chongqing 400065, Peoples R China.
+   [Wang, Guoyin] Chongqing Univ Posts & Telecommun, Chongqing Key Lab Computat Intelligence, Chongqing 400065, Peoples R China.
+   [Gao, Xinbo] Chongqing Univ Posts & Telecommun, Chongqing Key Lab Image Cognit, Chongqing 400065, Peoples R China.
+   [Li, Shengtao] Shandong Normal Univ, Sch Informat Sci & Engn, Jinan 250014, Peoples R China.
+C3 Northwestern Polytechnical University; Chongqing University of Posts &
+   Telecommunications; Chongqing University of Posts & Telecommunications;
+   Chongqing University of Posts & Telecommunications; Shandong Normal
+   University
+RP Wang, XJ (corresponding author), Chongqing Univ Posts & Telecommun, Sch Commun & Informat Engn, Chongqing 400065, Peoples R China.
+EM nielaisen@nwpu.edu.cn; wuyixuanl@mail.nwpu.edu.cn;
+   xiaojie.kara.wang@ieee.org; guolei@cqupt.eddu.cn; wanggy@cqupt.edu.cn;
+   gaoxb@cqupt.edu.cn; saintaolee@sdnu.edu.cn
+RI liu, xq/JDW-2596-2023; Wang, Xiaojie/ABG-2849-2022
+OI Wang, Xiaojie/0000-0003-4098-6399; Nie, Laisen/0000-0001-8813-7738;
+   Wang, Guoyin/0000-0002-8521-5232; Wu, Yixuan/0000-0002-9317-8769
+FU National Key Research and Development Program of China [2018YFE0206800];
+   National Natural Science Foundation of China [61936001, 61971084,
+   62001073, 61803238, 61701406]; National Natural Science Foundation of
+   Chongqing [cstc2019jcyj-cxttX0002]; seed Foundation of Innovation and
+   Creation for Graduate Students in Northwestern Polytechnical University
+   [CX2020153]
+FX This work was supported in part by the National Key Research and
+   Development Program of China under Grant 2018YFE0206800; in part by the
+   National Natural Science Foundation of China under Grant 61936001, Grant
+   61971084, Grant 62001073, Grant 61803238, and Grant 61701406, in part by
+   the National Natural Science Foundation of Chongqing under Grant
+   cstc2019jcyj-cxttX0002, in part by the seed Foundation of Innovation and
+   Creation for Graduate Students in Northwestern Polytechnical University
+   under Grant CX2020153.
+NR 40
+TC 60
+Z9 60
+U1 7
+U2 57
+PU IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+PI PISCATAWAY
+PA 445 HOES LANE, PISCATAWAY, NJ 08855-4141 USA
+SN 2329-924X
+J9 IEEE T COMPUT SOC SY
+JI IEEE Trans. Comput. Soc. Syst.
+PD FEB
+PY 2022
+VL 9
+IS 1
+BP 134
+EP 145
+DI 10.1109/TCSS.2021.3063538
+EA MAR 2021
+PG 12
+WC Computer Science, Cybernetics; Computer Science, Information Systems
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA YR6AC
+UT WOS:000732150100001
+OA hybrid
+DA 2024-07-23
+ER
+
+PT J
+AU Jiang, N
+   Tian, F
+   Li, J
+   Yuan, X
+   Zheng, JQ
+AF Jiang, Nan
+   Tian, Fang
+   Li, Jin
+   Yuan, Xu
+   Zheng, Jiaqi
+TI MAN: Mutual Attention Neural Networks Model for Aspect-Level Sentiment
+   Classification in SIoT
+SO IEEE INTERNET OF THINGS JOURNAL
+LA English
+DT Article
+DE Mutual attention mechanism; natural language processing (NLP); sentiment
+   classification; Social Internet of Things (SIoT)
+AB Text sentiment classification is of critical importance to improve the autonomous decision making and communication ability among object peers in the Social Internet of Things (SIoT). To classify sentiment polarity on a fine-grained level, aspect-level sentiment classification has become a promising direction in recent years. However, the existing solutions typically ignore the mutual information between sentences and their respective aspect terms while generally performing sentiment classification by using the simple attention mechanism. Thus, the relevant results seem to be unpromising. We aim to develop a novel neural-network-based model, by relying on the natural language processing model for rich feature extraction, called mutual attention neural networks (MANs), to conduct the aspect-level sentiment classification tasks in this article. Compared with the previous work, our proposed MAN model takes advantage of the bidirectional long short-term memory (Bi-LSTM) networks to obtain semantic dependence of sentences and their respective aspect terms, while learning the sentiment polarities of aspect terms in sentences by proposing the mutual attention mechanism. To evaluate the performance of MAN, we conduct our experiments on three real-world data sets, i.e., LAPTOP, REST, and TWITTER. The experimental results show that our proposed MAN model has significant performance improvements when compared to several existing models, in terms of aspect-level sentiment classification.
+C1 [Jiang, Nan; Tian, Fang] East China Jiaotong Univ, Dept Internet Things, Nanchang 330013, Jiangxi, Peoples R China.
+   [Li, Jin] Guangzhou Univ, Sch Comp Sci, Guangzhou 510631, Peoples R China.
+   [Yuan, Xu] Univ Louisiana Lafayette, Sch Comp & Informat, Lafayette, LA 70503 USA.
+   [Zheng, Jiaqi] Nanjing Univ, State Key Lab Novel Software Technol, Nanjing 210023, Peoples R China.
+C3 East China Jiaotong University; Guangzhou University; University of
+   Louisiana Lafayette; Nanjing University
+RP Jiang, N (corresponding author), East China Jiaotong Univ, Dept Internet Things, Nanchang 330013, Jiangxi, Peoples R China.; Li, J (corresponding author), Guangzhou Univ, Sch Comp Sci, Guangzhou 510631, Peoples R China.
+EM jiangnan@ecjtu.edu.cn; lijin@gzhu.edu.cn
+OI Tian, Fang/0000-0003-4392-7204; jiang, nan/0000-0003-1712-1872
+FU National Natural Science Foundation of China [61462028, 61802172,
+   61962022, U1936218]; Excellent Scientific and Technological Innovation
+   Teams of Jiangxi Province [20181BCB24009]; National Natural Science
+   Foundation of China for Outstanding Youth Foundation [61722203]
+FX The work of Nan Jiang was supported in part by the National Natural
+   Science Foundation of China under Grant 61462028, Grant 61802172, and
+   Grant 61962022; and in part by the Excellent Scientific and
+   Technological Innovation Teams of Jiangxi Province under Grant
+   20181BCB24009. The work of Jin Li was supported in part by the National
+   Natural Science Foundation of China for Outstanding Youth Foundation
+   under Grant 61722203, and in part by the National Natural Science
+   Foundation of China for Joint Fund Project under Grant U1936218.
+NR 37
+TC 47
+Z9 51
+U1 4
+U2 25
+PU IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+PI PISCATAWAY
+PA 445 HOES LANE, PISCATAWAY, NJ 08855-4141 USA
+SN 2327-4662
+J9 IEEE INTERNET THINGS
+JI IEEE Internet Things J.
+PD APR
+PY 2020
+VL 7
+IS 4
+BP 2901
+EP 2913
+DI 10.1109/JIOT.2020.2963927
+PG 13
+WC Computer Science, Information Systems; Engineering, Electrical &
+   Electronic; Telecommunications
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science; Engineering; Telecommunications
+GA LT5UQ
+UT WOS:000537136400036
+DA 2024-07-23
+ER
+
+PT J
+AU Shuja, J
+   Humayun, MA
+   Alasmary, W
+   Sinky, H
+   Alanazi, E
+   Khan, MK
+AF Shuja, Junaid
+   Humayun, Mohammad Ali
+   Alasmary, Waleed
+   Sinky, Hassan
+   Alanazi, Eisa
+   Khan, Muhammad Khurram
+TI Resource Efficient Geo-Textual Hierarchical Clustering Framework for
+   Social IoT Applications
+SO IEEE SENSORS JOURNAL
+LA English
+DT Article
+DE Sensors; Artificial intelligence; Social networking (online); Big Data;
+   Task analysis; Internet of Things; Clustering algorithms; Clustering;
+   geo-textual; machine learning; resource efficiency; social IoT
+ID ALGORITHM
+AB The Social Internet of Things (SIoT) paradigm incorporates social networking concepts with the Internet of Things (IoT) solutions to support novel services. The massive amount of data (big data) produced by SIoT necessitates efficient information processing frameworks to exploit social relationships and comprehend actionable information from real-world observations. Data from AI-enabled sensors (AIS) is typically geo-tagged, thus demanding geo-textual processing for information retrieval and analysis. Social media applications are the main source of geo-textual data as mobile users connect with millions of posts daily. The processing of big geo-textual data requires resource-efficient algorithms and frameworks. Clustering algorithms are often applied to geo-textual data to examine spatial, textual, and temporal information for event detection, sentiment analysis, and search query response. Clustering algorithms on big data are resource-hungry requiring comparisons among all data points to calculate similarity and distance metrics. Existing hybrid clustering techniques execute algorithms collectively on geo-textual data resulting in a enormous footprint for big data. We propose a resource-efficient clustering framework for AIS that hierarchically performs geo-textual clustering without significantly lowering the clustering quality. The proposed framework achieves substantial time and memory efficiency while reducing the overall resource requirements for constrained end-user and edge devices compared to the standard hybrid geo-textual clustering framework. Moreover, we augment the research work by developing open-source scripts for both hierarchical and hybrid clustering frameworks.
+C1 [Shuja, Junaid] COMSATS Univ Islamabad, Dept Comp Sci, Abbottabad Campus, Abbottabad 22060, Pakistan.
+   [Shuja, Junaid; Alasmary, Waleed] Umm Al Qura Univ, Dept Comp Engn, Mecca 21421, Saudi Arabia.
+   [Humayun, Mohammad Ali] Univ Brunei Darussalam, Fac Integrated Technol, BE-1410 Gadong, Brunei.
+   [Sinky, Hassan] Umm Al Qura Univ, Coll Comp & Informat Syst, Mecca 21421, Saudi Arabia.
+   [Alanazi, Eisa] Umm Al Qura Univ, Dept Comp Sci, Mecca 21421, Saudi Arabia.
+   [Khan, Muhammad Khurram] King Saud Univ, Ctr Excellence Informat Assurance CoEIA, Riyadh 11451, Saudi Arabia.
+C3 COMSATS University Islamabad (CUI); Umm Al Qura University; University
+   Brunei Darussalam; Umm Al Qura University; Umm Al Qura University; King
+   Saud University
+RP Khan, MK (corresponding author), King Saud Univ, Ctr Excellence Informat Assurance CoEIA, Riyadh 11451, Saudi Arabia.
+EM junaidshuja@cuiatd.edu.pk; 19h8937@ubd.edu.bn; wsasmary@uqu.edu.sa;
+   hhsinky@uqu.edu.sa; eaanazi@uqu.edu.sa; mkhurram@ksu.edu.sa
+RI Humayun, Mohammad Ali/AAD-8489-2022; Khan, Muhammad/JVN-8626-2024;
+   Shuja, Junaid/A-3103-2013; KHAN, MUHAMMAD KHURRAM/E-4836-2014; Alanazi,
+   Eisa/Y-9260-2019
+OI Khan, Muhammad/0000-0002-1463-3031; Shuja, Junaid/0000-0003-0726-5311;
+   KHAN, MUHAMMAD KHURRAM/0000-0001-6636-0533; Alanazi,
+   Eisa/0000-0002-5560-1116; , Hassan H. Sinky/0000-0002-2649-5860
+FU Deanship of Scientific Research at Umm Al-Qura University
+   [19-COM-1-01-0016]
+FX This work was supported by the Deanship of Scientific Research at Umm
+   Al-Qura University under Grant 19-COM-1-01-0016. The associate editor
+   coordinating the review of this article and approving it for publication
+   was Dr. Wei Wei.
+NR 41
+TC 29
+Z9 29
+U1 1
+U2 7
+PU IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+PI PISCATAWAY
+PA 445 HOES LANE, PISCATAWAY, NJ 08855-4141 USA
+SN 1530-437X
+EI 1558-1748
+J9 IEEE SENS J
+JI IEEE Sens. J.
+PD NOV 15
+PY 2021
+VL 21
+IS 22
+BP 25114
+EP 25122
+DI 10.1109/JSEN.2021.3060953
+PG 9
+WC Engineering, Electrical & Electronic; Instruments & Instrumentation;
+   Physics, Applied
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Engineering; Instruments & Instrumentation; Physics
+GA WW3DU
+UT WOS:000717802500029
+DA 2024-07-23
+ER
+
+PT J
+AU Wang, BW
+   Sun, YJ
+   Duong, TQ
+   Nguyen, LD
+   Zhao, N
+AF Wang, Bowen
+   Sun, Yanjing
+   Duong, Trung Q.
+   Nguyen, Long D.
+   Zhao, Nan
+TI Security Enhanced Content Sharing in Social IoT: A Directed
+   Hypergraph-Based Learning Scheme
+SO IEEE TRANSACTIONS ON VEHICULAR TECHNOLOGY
+LA English
+DT Article
+DE Social Internet of Things; directed hypergraph; game theory; machine
+   learning
+ID TO-DEVICE COMMUNICATION; D2D COMMUNICATIONS; WIRELESS NETWORKS;
+   ALLOCATION; DELIVERY
+AB Security is a critical element to the existing Internet of Things (IoT) deployment, where any user may actively or passively attack the content sharing of others reusing the same channel. As most smart devices are carried by human, we may leverage their owners' social trust to avoid being intercepted by untrusted users, which conforms to the Social Internet of Things (SIoT) paradigm. In this paper, we propose a secure content sharing (SCS) scheme to strike the trade-off between security and quality of experience (QoE) by exploring the social trust. Firstly, to dynamically extract the social trust, the random walk strategy is employed for prediction based on the proposed "User-Content-Social Group" graph which models users' preference over time. Given the social trust value, we propose a hierarchical game model to decouple the optimization problem into two sub-problems: user pairing and channel selection. More specifically, the user pairing sub-problem is formulated as a matching sub-game with peer effect, and the embedded rotation-swap matching algorithm can accommodate the dynamics caused by mutual interference. The second sub-problem can be formulated as a secure channel selection sub-game with the directed hypergraph being game space, which is proved to be an exact potential game. Then, we design an uncoupled-user concurrent learning algorithm (UUCL) to search for the optimal pure Nash equilibrium, and thereby the global optimum of this sub-game is achieved. Finally, simulation results generated on realistic social dataset verify that our proposed scheme can notably enhance the security without sacrificing users' QoE.
+C1 [Wang, Bowen; Sun, Yanjing] China Univ Min & Technol, Sch Informat & Control Engn, Xuzhou 221116, Jiangsu, Peoples R China.
+   [Wang, Bowen; Duong, Trung Q.] Queens Univ, Sch Elect Elect Engn & Comp Sci, Belfast BT7 1NN, Antrim, North Ireland.
+   [Nguyen, Long D.] Duy Tan Univ, Da Nang 550000, Vietnam.
+   [Zhao, Nan] Dalian Univ Technol, Sch Informat & Commun Engn, Dalian 116024, Peoples R China.
+C3 China University of Mining & Technology; Queens University Belfast; Duy
+   Tan University; Dalian University of Technology
+RP Sun, YJ (corresponding author), China Univ Min & Technol, Sch Informat & Control Engn, Xuzhou 221116, Jiangsu, Peoples R China.
+EM bowenwang@cumt.edu.cn; yjsun@cumt.edu.cn; trung.q.duong@qub.ac.uk;
+   nguyendinhlong1@duytan.edu.vn; zhaonan@dlut.edu.cn
+RI Sun, Yanjing/Q-2576-2019; Duong, Trung Q./AAI-6708-2020; nguyen,
+   long/KHV-1588-2024; Zhao, Nan/B-8208-2014; Duong, Trung Q./I-1291-2013
+OI Sun, Yanjing/0000-0002-1389-3958; Zhao, Nan/0000-0002-6497-7799; Wang,
+   Bowen/0000-0003-0146-263X; Nguyen, Long/0000-0002-1044-257X; Duong,
+   Trung Q./0000-0002-4703-4836
+FU Key Research & Development Project for Science and Technology of Xuzhou,
+   China [KC18105]; National Natural Science Foundation of China [51734009,
+   61771417, 51804304, 61871065]; Newton Fund Institutional Link through
+   the Fly-by Flood Monitoring Project [428328486]
+FX This work was supported in part by the Key Research & Development
+   Project for Science and Technology of Xuzhou, China under Grant KC18105,
+   in part by the National Natural Science Foundation of China under Grants
+   51734009, 61771417, 51804304, and 61871065, and in part by the Newton
+   Fund Institutional Link through the Fly-by Flood Monitoring Project
+   428328486, which is delivered by the British Council.
+NR 40
+TC 12
+Z9 12
+U1 0
+U2 21
+PU IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+PI PISCATAWAY
+PA 445 HOES LANE, PISCATAWAY, NJ 08855-4141 USA
+SN 0018-9545
+EI 1939-9359
+J9 IEEE T VEH TECHNOL
+JI IEEE Trans. Veh. Technol.
+PD APR
+PY 2020
+VL 69
+IS 4
+BP 4403
+EP 4416
+DI 10.1109/TVT.2020.2975884
+PG 14
+WC Engineering, Electrical & Electronic; Telecommunications; Transportation
+   Science & Technology
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Engineering; Telecommunications; Transportation
+GA LJ6PH
+UT WOS:000530284400072
+OA Green Accepted
+DA 2024-07-23
+ER
+
+PT J
+AU Li, BT
+   Lin, YX
+   Khan, IA
+AF Li, Bentian
+   Lin, Yunxia
+   Khan, Izhar Ahmed
+TI Self-Supervised Learning IoT Device Features With Graph Contrastive
+   Neural Network for Device Classification in Social Internet of Things
+SO IEEE TRANSACTIONS ON NETWORK AND SERVICE MANAGEMENT
+LA English
+DT Article
+DE Internet of Things; Feature extraction; Task analysis; Object
+   recognition; Classification algorithms; Telecommunication traffic;
+   Social networking (online); Self-supervised learning; device
+   classification; graph contrastive neural network; Social Internet of
+   Things
+AB Device Classification (DC) is one of the critical network management means in the Internet of Things (IoT). Most machine learning-driven DC methods are implemented in two steps: firstly, extracting device features, and then training the classifier. Thus, for the same classifier, the quality of device features plays a decisive role. However, for one thing, these methods usually merely consider device traffic or device attributed features, ignoring the complex relationship between devices in Social IoT. For another thing, these features fed to the classifier are often selected manually without automatic learning. These two factors seriously affect the performance and flexibility of the algorithm. To address the above issues, we propose a novel Graph Contrastive Neural Network-based algorithm for DC dubbed GCNNDC. Specifically, based on the complex relationship between heterogeneous objects in Social IoT and the attribute information of the device itself, we first construct four kinds of homogeneous device-device attributed networks as the input of the neural network. Then, we train a novel GCNN model to learn informative device features in a self-supervised learning fashion. Finally, we leverage the features to train a classifier to complete the DC task. Experimental results on real-world IoT network dataset demonstrate the superiority of GCNNDC.
+C1 [Li, Bentian; Lin, Yunxia] Yangzhou Univ, Jiangsu Prov Engn Res Ctr Knowledge Management & I, Sch Informat Engn, Yangzhou 225127, Jiangsu, Peoples R China.
+   [Khan, Izhar Ahmed] Nanjing Univ Aeronaut & Astronaut, Coll Comp Sci & Technol, Nanjing 211106, Jiangsu, Peoples R China.
+C3 Yangzhou University; Nanjing University of Aeronautics & Astronautics
+RP Lin, YX (corresponding author), Yangzhou Univ, Jiangsu Prov Engn Res Ctr Knowledge Management & I, Sch Informat Engn, Yangzhou 225127, Jiangsu, Peoples R China.
+EM bentianli@yzu.edu.cn; yunxialin@yzu.edu.cn; izhar@nuaa.edu.cn
+OI Li, Bentian/0000-0001-6504-3851; Ahmed Khan, Izhar/0000-0001-7180-8179
+FU Natural Science Foundation of Jiangsu Province
+FX No Statement Available
+NR 38
+TC 1
+Z9 1
+U1 9
+U2 10
+PU IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+PI PISCATAWAY
+PA 445 HOES LANE, PISCATAWAY, NJ 08855-4141 USA
+SN 1932-4537
+J9 IEEE T NETW SERV MAN
+JI IEEE Trans. Netw. Serv. Manag.
+PD DEC
+PY 2023
+VL 20
+IS 4
+BP 4255
+EP 4267
+DI 10.1109/TNSM.2023.3252806
+PG 13
+WC Computer Science, Information Systems
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA CW0K2
+UT WOS:001128152200019
+DA 2024-07-23
+ER
+
+PT J
+AU Marche, C
+   Nitti, M
+AF Marche, Claudio
+   Nitti, Michele
+TI Trust-Related Attacks and Their Detection: A Trust Management Model for
+   the Social IoT
+SO IEEE TRANSACTIONS ON NETWORK AND SERVICE MANAGEMENT
+LA English
+DT Article
+DE Internet of Things; Quality of service; Trust management; Social
+   networking (online); Peer-to-peer computing; Computational modeling;
+   Social factors; Internet of Things; Social Internet of Things;
+   trustworthiness management; machine learning
+ID INTERNET; MECHANISM
+AB The integration of social networking concepts into the Internet of Things (IoT) has led to the so called Social Internet of Things paradigm, according to which the objects are capable of establishing social relationships in an autonomous way with respect to their owners. Within this scenario, "things" interact opportunistically with their peers to seek needed services. However, attacks and malfunctions in the IoT can outweigh any of its benefits if not handled adequately. In this article, we focus on the possible types of trust attacks that can affect the IoT and propose a trust management model able to overcome all the analyzed attacks. Simulations show how the proposed model can effectively isolate almost any malicious nodes in the network at the expense of an increase in the number of transactions needed for the model to converge.
+C1 [Marche, Claudio; Nitti, Michele] Univ Cagliari, DIEE, I-09123 Cagliari, Italy.
+   [Nitti, Michele] CNIT Res Unit, I-43124 Parma, Italy.
+C3 University of Cagliari
+RP Marche, C (corresponding author), Univ Cagliari, DIEE, I-09123 Cagliari, Italy.
+EM claudio.marche@unica.it; michele.nitti@unica.it
+RI Marche, Claudio/ACY-3748-2022; Nitti, Michele/L-8929-2015
+OI Marche, Claudio/0000-0002-1017-9046; Nitti, Michele/0000-0002-7832-7121
+FU Italian Ministry of University and Research (MIUR), within the PON RI
+FX This work was supported by Italian Ministry of University and Research
+   (MIUR), within the PON R&I 2014-2020 framework (Project AIM (Attrazione
+   e Mobilita Internazionale). The associate editor coordinating the review
+   of this article and approving it for publication was I. R. Chen.
+NR 38
+TC 33
+Z9 34
+U1 2
+U2 7
+PU IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+PI PISCATAWAY
+PA 445 HOES LANE, PISCATAWAY, NJ 08855-4141 USA
+SN 1932-4537
+J9 IEEE T NETW SERV MAN
+JI IEEE Trans. Netw. Serv. Manag.
+PD SEP
+PY 2021
+VL 18
+IS 3
+BP 3297
+EP 3308
+DI 10.1109/TNSM.2020.3046906
+PG 12
+WC Computer Science, Information Systems
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA UP5YP
+UT WOS:000695455900061
+OA Green Submitted
+DA 2024-07-23
+ER
+
+PT J
+AU Hu, XK
+   Zhou, ZY
+   Sun, YR
+   Kersten, J
+   Klan, F
+   Fan, HC
+   Wiegmann, M
+AF Hu, Xuke
+   Zhou, Zhiyong
+   Sun, Yeran
+   Kersten, Jens
+   Klan, Friederike
+   Fan, Hongchao
+   Wiegmann, Matti
+TI GazPNE2: A General Place Name Extractor for Microblogs Fusing Gazetteers
+   and Pretrained Transformer Models
+SO IEEE INTERNET OF THINGS JOURNAL
+LA English
+DT Article
+DE Sensors; Internet of Things; Blogs; Feature extraction; Transformers;
+   COVID-19; Statistical learning; BERT; BERTweet; geoparsing;
+   OpenStreetMap (OSM); place name extraction; Social Internet of Things
+   (IoT); tweets
+ID SOCIAL NETWORKS; SYSTEM
+AB The concept of "human as sensors" defines a new sensing model, in which humans act as sensors by contributing their observations, perceptions, and sensations. This is crucial for the development of Social Internet of Things, which is an integral part of cyber-physical-social systems. Online social media platforms, as the most active places where users act as social sensors, are responsive to real-world events and are useful for gathering situational information in real time. Unfortunately, posts rarely contain structured geographic information, thus hindering their usage for contributing to various challenges, such as emergency response. We address this limitation by introducing a general approach for extracting place names from tweets, named GazPNE2. It combines global gazetteers (i.e., OpenStreetMap and GeoNames), deep learning, and pretrained transformer models (i.e., BERT and BERTweet), which requires no manually annotated data. It can extract place names at both coarse (e.g., city) and fine-grained (e.g., street and POI) levels and place names with abbreviations. To fully evaluate GazPNE2 and compare it with 11 competing approaches, we use 19 public tweet data sets, containing 38 802 tweets and 22 197 places across the world. The results show GazPNE2 achieves a much higher F1 (0.8) than the other approaches. Furthermore, we apply GazPNE2 to three large unannotated tweet data sets related to over 20 crisis events (e.g., coronavirus disease 2019), containing 560 040 tweets. An F1 of 0.84 is achieved on 3000 tweets, which are randomly selected from the three data sets and then manually annotated. Code and data are available on GitHub page: https://github.com/uhuohuy/GazPNE2.
+C1 [Hu, Xuke; Kersten, Jens; Klan, Friederike] German Aerosp Ctr DLR, Data Sci Inst, D-07745 Jena, Germany.
+   [Zhou, Zhiyong] Univ Zurich, Dept Geog, CH-8057 Zurich, Switzerland.
+   [Sun, Yeran] Swansea Univ, Coll Sci, Dept Geog, Swansea SA2 8PP, W Glam, Wales.
+   [Fan, Hongchao] Norwegian Univ Sci & Technol, Dept Civil & Environm Engn, N-7491 Trondheim, Norway.
+   [Wiegmann, Matti] Bauhaus Univ Weimar, Comp Sci Dept, D-99423 Weimar, Germany.
+C3 Helmholtz Association; German Aerospace Centre (DLR); University of
+   Zurich; Swansea University; Norwegian University of Science & Technology
+   (NTNU); Bauhaus-Universitat Weimar
+RP Hu, XK (corresponding author), German Aerosp Ctr DLR, Data Sci Inst, D-07745 Jena, Germany.
+EM xuke.hu@dlr.de
+RI Fan, Hongchao/Y-9611-2019; Zhou, Zhiyong/AAN-7994-2021; Kersten,
+   Jens/KCL-2734-2024
+OI Fan, Hongchao/0000-0002-0051-7451; Zhou, Zhiyong/0000-0002-6117-2071;
+   hu, xuke/0000-0002-5649-0243; Kersten, Jens/0000-0002-4735-7360
+NR 76
+TC 21
+Z9 22
+U1 6
+U2 15
+PU IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+PI PISCATAWAY
+PA 445 HOES LANE, PISCATAWAY, NJ 08855-4141 USA
+SN 2327-4662
+J9 IEEE INTERNET THINGS
+JI IEEE Internet Things J.
+PD SEPT 1
+PY 2022
+VL 9
+IS 17
+BP 16259
+EP 16271
+DI 10.1109/JIOT.2022.3150967
+PG 13
+WC Computer Science, Information Systems; Engineering, Electrical &
+   Electronic; Telecommunications
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science; Engineering; Telecommunications
+GA 4C9BD
+UT WOS:000846738200065
+DA 2024-07-23
+ER
+
+EF

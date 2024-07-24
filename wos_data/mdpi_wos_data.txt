@@ -1,0 +1,293 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Liu, H
+   Yang, B
+   Yu, ZW
+AF Liu, Hao
+   Yang, Bo
+   Yu, Zhiwen
+TI A Multi-View Interactive Approach for Multimodal Sarcasm Detection in
+   Social Internet of Things with Knowledge Enhancement
+SO APPLIED SCIENCES-BASEL
+LA English
+DT Article
+DE sarcasm detection; multi-view interaction; multimodal
+ID FRAMEWORK
+AB Multimodal sarcasm detection is a developing research field in social Internet of Things, which is the foundation of artificial intelligence and human psychology research. Sarcastic comments issued on social media often imply people's real attitudes toward the events they are commenting on, reflecting their current emotional and psychological state. Additionally, the limited memory of Internet of Things mobile devices has posed challenges in deploying sarcastic detection models. An abundance of parameters also leads to an increase in the model's inference time. Social networking platforms such as Twitter and WeChat have generated a large amount of multimodal data. Compared to unimodal data, multimodal data can provide more comprehensive information. Therefore, when studying sarcasm detection on social Internet of Things, it is necessary to simultaneously consider the inter-modal interaction and the number of model parameters. In this paper, we propose a lightweight multimodal interaction model with knowledge enhancement based on deep learning. By integrating visual commonsense knowledge into the sarcasm detection model, we can enrich the semantic information of image and text modal representation. Additionally, we develop a multi-view interaction method to facilitate the interaction between modalities from different modal perspectives. The experimental results indicate that the model proposed in this paper outperforms the unimodal baselines. Compared to multimodal baselines, it also has similar performance with a small number of parameters.
+C1 [Liu, Hao; Yang, Bo; Yu, Zhiwen] Northwestern Polytech Univ, Sch Comp Sci, Xian 710129, Peoples R China.
+C3 Northwestern Polytechnical University
+RP Yang, B (corresponding author), Northwestern Polytech Univ, Sch Comp Sci, Xian 710129, Peoples R China.
+EM liuhao23@mail.nwpu.edu.cn; yang_bo@nwpu.edu.cn; zhiwenyu@nwpu.edu.cn
+OI Yang, Bo/0000-0002-6275-8904
+FU National Natural Science Foundation of China
+FX No Statement Available
+NR 42
+TC 1
+Z9 1
+U1 5
+U2 5
+PU MDPI
+PI BASEL
+PA ST ALBAN-ANLAGE 66, CH-4052 BASEL, SWITZERLAND
+EI 2076-3417
+J9 APPL SCI-BASEL
+JI Appl. Sci.-Basel
+PD MAR
+PY 2024
+VL 14
+IS 5
+AR 2146
+DI 10.3390/app14052146
+PG 14
+WC Chemistry, Multidisciplinary; Engineering, Multidisciplinary; Materials
+   Science, Multidisciplinary; Physics, Applied
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Chemistry; Engineering; Materials Science; Physics
+GA KT1N1
+UT WOS:001182125100001
+OA gold
+DA 2024-07-23
+ER
+
+PT J
+AU Rahim, A
+   Maqbool, A
+   Mirza, A
+   Afzal, F
+   Asghar, I
+AF Rahim, Adina
+   Maqbool, Ayesha
+   Mirza, Alina
+   Afzal, Farkhanda
+   Asghar, Ikram
+TI DepTSol: An Improved Deep-Learning- and Time-of-Flight-Based Real-Time
+   Social Distance Monitoring Approach under Various Low-Light Conditions
+SO ELECTRONICS
+LA English
+DT Article
+DE social distancing; cyber-physical system; IoT towards COVID-19; machine
+   learning; social IoT; computer vision; DepTSol; deep learning;
+   artificial intelligence
+AB Social distancing is an utmost reliable practice to minimise the spread of coronavirus disease (COVID-19). As the new variant of COVID-19 is emerging, healthcare organisations are concerned with controlling the death and infection rates. Different COVID-19 vaccines have been developed and administered worldwide. However, presently developed vaccine quantity is not sufficient to fulfil the needs of the world's population. The precautionary measures still rely on personal preventive strategies. The sharp rise in infections has forced governments to reimpose restrictions. Governments are forcing people to maintain at least 6 feet (ft) of safe physical distance to stay safe. With summers, low-light conditions can become challenging. Especially in the cities of underdeveloped countries, where poor ventilated and congested homes cause people to gather in open spaces such as parks, streets, and markets. Besides this, in summer, large friends and family gatherings mostly take place at night. It is necessary to take precautionary measures to avoid more drastic results in such situations. To support the law and order bodies in maintaining social distancing using Social Internet of Things (SIoT), the world is considering automated systems. To address the identification of violations of a social distancing Standard Operating procedure (SOP) in low-light environments via smart, automated cyber-physical solutions, we propose an effective social distance monitoring approach named DepTSol. We propose a low-cost and easy-to-maintain motionless monocular time-of-flight (ToF) camera and deep-learning-based object detection algorithms for real-time social distance monitoring. The proposed approach detects people in low-light environments and calculates their distance in terms of pixels. We convert the predicted pixel distance into real-world units and compare it with the specified safety threshold value. The system highlights people violating the safe distance. The proposed technique is evaluated by COCO evaluation metrics and has achieved a good speed-accuracy trade-off with 51.2 frames per second (fps) and a 99.7% mean average precision (mAP) score. Besides the provision of an effective social distance monitoring approach, we perform a comparative analysis between one-stage object detectors and evaluate their performance in low-light environments. This evaluation will pave the way for researchers to study the field further and will enlighten the efficiency of deep-learning algorithms in timely responsive real-world applications.
+C1 [Rahim, Adina; Mirza, Alina; Afzal, Farkhanda] Natl Univ Sci & Technol, MCS, Islamabad 44000, Pakistan.
+   [Maqbool, Ayesha] Natl Univ Sci & Technol, NBC, Islamabad 44000, Pakistan.
+   [Asghar, Ikram] Univ South Wales, Fac Comp Engn & Sci, Pontypridd CF37 1LP, M Glam, Wales.
+C3 National University of Sciences & Technology - Pakistan; National
+   University of Sciences & Technology - Pakistan; University of South
+   Wales
+RP Asghar, I (corresponding author), Univ South Wales, Fac Comp Engn & Sci, Pontypridd CF37 1LP, M Glam, Wales.
+EM arahim.mscs25mcs@student.nust.edu.pk; ayesha.maqool@nbc.nust.edu.pk;
+   alina.mirza@mcs.edu.pk; farkhanda@mcs.edu.pk;
+   ikram.asghar@southwales.ac.uk
+RI Rahim, Adina/AAS-8901-2021; Maqbool, Ayesha/HCI-5538-2022; Maqbool,
+   Ayesha/JKI-7174-2023; Asghar, Ikram/AAQ-9406-2021; AFZAL,
+   FARKHANDA/A-7451-2014
+OI Rahim, Adina/0000-0003-3235-9977; Maqbool, Ayesha/0000-0003-3397-3661;
+   Asghar, Ikram/0000-0002-2392-4543; AFZAL, FARKHANDA/0000-0001-5396-7598
+NR 52
+TC 3
+Z9 3
+U1 0
+U2 11
+PU MDPI
+PI BASEL
+PA ST ALBAN-ANLAGE 66, CH-4052 BASEL, SWITZERLAND
+EI 2079-9292
+J9 ELECTRONICS-SWITZ
+JI Electronics
+PD FEB
+PY 2022
+VL 11
+IS 3
+AR 458
+DI 10.3390/electronics11030458
+PG 23
+WC Computer Science, Information Systems; Engineering, Electrical &
+   Electronic; Physics, Applied
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science; Engineering; Physics
+GA YY6PP
+UT WOS:000754910500001
+OA gold
+DA 2024-07-23
+ER
+
+PT J
+AU Dahou, A
+   Chelloug, SA
+   Alduailij, M
+   Elaziz, MA
+AF Dahou, Abdelghani
+   Chelloug, Samia Allaoua
+   Alduailij, Mai
+   Elaziz, Mohamed Abd
+TI Improved Feature Selection Based on Chaos Game Optimization for Social
+   Internet of Things with a Novel Deep Learning Model
+SO MATHEMATICS
+LA English
+DT Article
+DE Social Internet of Things (SIoT); Deep Learning (DL); Chaos Game
+   Optimization (CGO); feature selection
+ID SEQUENCE
+AB The Social Internet of Things (SIoT) ecosystem tends to process and analyze extensive data generated by users from both social networks and Internet of Things (IoT) systems and derives knowledge and diagnoses from all connected objects. To overcome many challenges in the SIoT system, such as big data management, analysis, and reporting, robust algorithms should be proposed and validated. Thus, in this work, we propose a framework to tackle the high dimensionality of transferred data over the SIoT system and improve the performance of several applications with different data types. The proposed framework comprises two parts: Transformer CNN (TransCNN), a deep learning model for feature extraction, and the Chaos Game Optimization (CGO) algorithm for feature selection. To validate the framework's effectiveness, several datasets with different data types were selected, and various experiments were conducted compared to other methods. The results showed that the efficiency of the developed method is better than other models according to the performance metrics in the SIoT environment. In addition, the average of the developed method based on the accuracy, sensitivity, specificity, number of selected features, and fitness value is 88.30%, 87.20%, 92.94%, 44.375, and 0.1082, respectively. The mean rank obtained using the Friedman test is the best value overall for the competitive algorithms.
+C1 [Dahou, Abdelghani] Ahmed Draia Univ, Fac Comp Sci & Math, Adrar 01000, Algeria.
+   [Chelloug, Samia Allaoua] Princess Nourah Bint Abdulrahman Univ, Coll Comp & Informat Sci, Informat Technol Dept, Riyadh 11671, Saudi Arabia.
+   [Alduailij, Mai] Princess Nourah Bint Abdulrahman Univ, Coll Comp & Informat Sci, Dept Comp Sci, Riyadh 11671, Saudi Arabia.
+   [Elaziz, Mohamed Abd] Zagazig Univ, Fac Sci, Dept Math, Zagazig 44519, Egypt.
+   [Elaziz, Mohamed Abd] Galala Univ, Dept Artificial Intelligence Sci & Engn, Suze 435611, Egypt.
+   [Elaziz, Mohamed Abd] Ajman Univ, Artificial Intelligence Res Ctr AIRC, Ajman 346, Ajman, U Arab Emirates.
+   [Elaziz, Mohamed Abd] Lebanese Amer Univ, Dept Elect & Comp Engn, Byblos 135053, Lebanon.
+C3 Princess Nourah bint Abdulrahman University; Princess Nourah bint
+   Abdulrahman University; Egyptian Knowledge Bank (EKB); Zagazig
+   University; Galala University; Ajman University; Lebanese American
+   University
+RP Chelloug, SA (corresponding author), Princess Nourah Bint Abdulrahman Univ, Coll Comp & Informat Sci, Informat Technol Dept, Riyadh 11671, Saudi Arabia.; Alduailij, M (corresponding author), Princess Nourah Bint Abdulrahman Univ, Coll Comp & Informat Sci, Dept Comp Sci, Riyadh 11671, Saudi Arabia.; Elaziz, MA (corresponding author), Zagazig Univ, Fac Sci, Dept Math, Zagazig 44519, Egypt.; Elaziz, MA (corresponding author), Galala Univ, Dept Artificial Intelligence Sci & Engn, Suze 435611, Egypt.; Elaziz, MA (corresponding author), Ajman Univ, Artificial Intelligence Res Ctr AIRC, Ajman 346, Ajman, U Arab Emirates.; Elaziz, MA (corresponding author), Lebanese Amer Univ, Dept Elect & Comp Engn, Byblos 135053, Lebanon.
+EM sachelloug@pnu.edu.sa; maalduailij@pnu.edu.sa; abd_el_aziz_m@yahoo.com
+RI , mohamed/AAH-8886-2019; Dahou, Abdelghani/ACG-1247-2022; Chelloug,
+   Samia Allaoua/AHA-9829-2022
+OI , mohamed/0000-0002-7682-6269; Dahou, Abdelghani/0000-0003-4561-2185;
+   Chelloug, Samia Allaoua/0000-0002-9711-0235
+FU Deanship of Scientific Research, Princess Nourah bint Abdulrahman
+   University, through the Program of Research Project Funding After
+   Publication [43- PRFA-P-24]
+FX This research project was funded by the Deanship of Scientific Research,
+   Princess Nourah bint Abdulrahman University, through the Program of
+   Research Project Funding After Publication, grant No (43- PRFA-P-17).
+NR 59
+TC 5
+Z9 5
+U1 2
+U2 7
+PU MDPI
+PI BASEL
+PA ST ALBAN-ANLAGE 66, CH-4052 BASEL, SWITZERLAND
+EI 2227-7390
+J9 MATHEMATICS-BASEL
+JI Mathematics
+PD FEB
+PY 2023
+VL 11
+IS 4
+AR 1032
+DI 10.3390/math11041032
+PG 17
+WC Mathematics
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Mathematics
+GA 9L4JD
+UT WOS:000941515500001
+OA gold, Green Published
+DA 2024-07-23
+ER
+
+PT J
+AU Bati, GF
+   Singh, VK
+AF Bati, Ghassan F.
+   Singh, Vivek K.
+TI NADAL: A Neighbor-Aware Deep Learning Approach for Inferring
+   Interpersonal Trust Using Smartphone Data
+SO COMPUTERS
+LA English
+DT Article
+DE deep learning; neighbor-aware deep learning; phone data; trust inference
+ID DARK TRIAD; TRUSTWORTHINESS; NETWORKS; STRENGTH
+AB Interpersonal trust mediates multiple socio-technical systems and has implications for personal and societal well-being. Consequently, it is crucial to devise novel machine learning methods to infer interpersonal trust automatically using mobile sensor-based behavioral data. Considering that social relationships are often affected by neighboring relationships within the same network, this work proposes using a novel neighbor-aware deep learning architecture (NADAL) to enhance the inference of interpersonal trust scores. Based on analysis of call, SMS, and Bluetooth interaction data from a one-year field study involving 130 participants, we report that: (1) adding information about neighboring relationships improves trust score prediction in both shallow and deep learning approaches; and (2) a custom-designed neighbor-aware deep learning architecture outperforms a baseline feature concatenation based deep learning approach. The results obtained at interpersonal trust prediction are promising and have multiple implications for trust-aware applications in the emerging social internet of things.
+C1 [Bati, Ghassan F.] Umm Al Qura Univ, Comp Engn Dept, Mecca 24381, Saudi Arabia.
+   [Singh, Vivek K.] State Univ New Jersey, Sch Commun & Informat, New Brunswick, NJ 08901 USA.
+C3 Umm Al Qura University; Rutgers University System; Rutgers University
+   New Brunswick
+RP Singh, VK (corresponding author), State Univ New Jersey, Sch Commun & Informat, New Brunswick, NJ 08901 USA.
+EM gfbati@uqu.edu.sa; v.singh@rutgers.edu
+RI Bati, Ghassan/B-4716-2019
+OI Bati, Ghassan/0000-0002-9106-7133
+NR 91
+TC 1
+Z9 1
+U1 0
+U2 4
+PU MDPI
+PI BASEL
+PA ST ALBAN-ANLAGE 66, CH-4052 BASEL, SWITZERLAND
+SN 2073-431X
+J9 COMPUTERS
+JI Computers
+PD JAN
+PY 2021
+VL 10
+IS 1
+AR 3
+DI 10.3390/computers10010003
+PG 22
+WC Computer Science, Interdisciplinary Applications
+WE Emerging Sources Citation Index (ESCI)
+SC Computer Science
+GA PW9RR
+UT WOS:000611004600001
+OA gold
+DA 2024-07-23
+ER
+
+PT J
+AU Mohana, SD
+   Prakash, SPS
+   Krinkin, K
+AF Mohana, S. D.
+   Prakash, S. P. Shiva
+   Krinkin, Kirill
+TI Service Oriented R-ANN Knowledge Model for Social Internet of Things
+SO BIG DATA AND COGNITIVE COMPUTING
+LA English
+DT Article
+DE SIoT (Social Internet of Things); objects; ANN (Artificial Neural
+   Network); AI (Artificial Intelligence); predictive modeling
+ID SMART; SIMULATION; SUPPORT; TRUST; IOT
+AB Increase in technologies around the world requires adding intelligence to the objects, and making it a smart object in an environment leads to the Social Internet of Things (SIoT). These social objects are uniquely identifiable, transferable and share information from user-to-objects and objects-to objects through interactions in a smart environment such as smart homes, smart cities and many more applications. SIoT faces certain challenges such as handling of heterogeneous objects, selection of generated data in objects, missing values in data. Therefore, the discovery and communication of meaningful patterns in data are more important for every application. Thus, the analysis of data is essential in smarter decisions and qualifies performance of data for various applications. In a smart environment, social networks of intelligent objects are increasing services and decreasing the relationship in a reliable and efficient way of sharing resources and services. Hence, this work proposed the feature selection method based on proposed semantic rules and established the relationships to classify the services using relationship artificial neural networks (R-ANN). R-ANN is an inversely proportional relationship to the objects based on certain rules and conditions between the objects to objects and users to objects. It provides the service oriented knowledge model to make decisions in the proposed R-ANN model that produces service to the users. The proposed R-ANN provides an accuracy of 89.62% for various services namely weather, air quality, parking, light status, and people presence respectively in the SIoT environment compared to the existing model.
+C1 [Mohana, S. D.; Prakash, S. P. Shiva] JSS Sci & Technol Univ, Dept Informat Sci & Engn, Mysuru 570006, Karnataka, India.
+   [Krinkin, Kirill] St Petersburg Electrotech Univ LETI, Dept Software Engn & Comp Applicat, St Petersburg 197022, Russia.
+C3 JSS Science & Technology University; Saint Petersburg State
+   Electrotechnical University
+RP Prakash, SPS (corresponding author), JSS Sci & Technol Univ, Dept Informat Sci & Engn, Mysuru 570006, Karnataka, India.
+EM mohan7sdm@gmail.com; shivasp@jssstuniv.in; kirill@krinkin.com
+RI Krinkin, Kirill/D-8725-2015; PRAKASH, SP SHIVA/JFA-3740-2023
+OI Krinkin, Kirill/0000-0001-5949-7830; PRAKASH, SP
+   SHIVA/0000-0003-3490-6292; S D, Mohana/0000-0003-2286-7695
+FU Ministry of Science and Higher Education of the Russian Federation
+   [075-15-2020-933]
+FX This work was supported by the Ministry of Science and Higher Education
+   of the Russian Federation by the Agreement N 075-15-2020-933 dated 13
+   November 2020 on the provision of a grant in the form of subsidies from
+   the federal budget for the implementation of state support for the
+   establishment and development of the world-class scientific
+   center-Pavlov center Integrative physiology for medicine, high-tech
+   health care and stress-resilience technologies.
+NR 48
+TC 3
+Z9 3
+U1 0
+U2 4
+PU MDPI
+PI BASEL
+PA ST ALBAN-ANLAGE 66, CH-4052 BASEL, SWITZERLAND
+EI 2504-2289
+J9 BIG DATA COGN COMPUT
+JI Big Data Cogn. Comput.
+PD MAR
+PY 2022
+VL 6
+IS 1
+AR 32
+DI 10.3390/bdcc6010032
+PG 23
+WC Computer Science, Artificial Intelligence; Computer Science, Information
+   Systems; Computer Science, Theory & Methods
+WE Emerging Sources Citation Index (ESCI)
+SC Computer Science
+GA 0E7UL
+UT WOS:000776881800001
+OA gold
+DA 2024-07-23
+ER
+
+EF
