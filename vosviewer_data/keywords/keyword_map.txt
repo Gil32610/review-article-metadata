@@ -1,0 +1,134 @@
+﻿id	label	x	y	cluster	weight<Links>	weight<Total link strength>	weight<Occurrences>	score<Avg. pub. year>	score<Avg. citations>	score<Avg. norm. citations>
+1	adaptation models	-0.2805	-0.627	3	11	11	1	2022	21	0.9767
+2	adaptive trust weight (atw) model	0.695	0.7629	6	5	5	1	2022	3	0.1395
+3	agriculture	0.4614	0.1783	9	9	9	1	2022	32	1.4884
+4	ai (artificial intelligence)	1.9845	0.0894	14	4	4	1	2022	3	0.1395
+5	ann (artificial neural network)	2.0003	0.0934	14	4	4	1	2022	3	0.1395
+6	anomaly detection	0.6457	-0.005	7	2	2	1	2021	4	0.2388
+7	artificial intelligence	-0.0632	0.3482	1	17	19	2	2021.5	16	0.9354
+8	attention mechanism	0.4237	-0.3645	2	4	4	1	2022	5	0.2326
+9	bert	0.3111	-0.4332	2	17	17	2	2022	13	0.6047
+10	bertweet	0.1543	-0.5584	2	13	13	1	2022	21	0.9767
+11	bi-lstm	0.4377	-0.3501	2	4	4	1	2022	5	0.2326
+12	big data	-0.0299	0.1262	1	13	15	2	2019.5	57.5	1.0182
+13	blogs	0.1387	-0.5242	2	13	13	1	2022	21	0.9767
+14	chaos game optimization (cgo)	0.2535	0.0671	7	3	3	1	2023	5	0.7407
+15	classification algorithms	-0.2582	-0.4137	13	10	10	1	2023	1	0.1481
+16	clothing	-0.1616	-0.1059	10	10	10	1	2024	0	0
+17	clustering	-0.0819	0.1415	1	11	11	1	2021	29	1.7313
+18	clustering algorithms	-0.1168	0.1571	1	11	11	1	2021	29	1.7313
+19	collaboration	-0.3323	-0.6681	3	11	11	1	2022	21	0.9767
+20	collaborative edge computing (cec)	0.4351	-0.1613	8	9	9	1	2022	60	2.7907
+21	community detection	-0.6615	0.3646	4	8	8	1	2022	2	0.093
+22	computational modeling	-0.4596	-0.473	3	18	20	2	2021.5	27	1.4734
+23	computer architecture	-0.2567	0.347	15	8	8	1	2022	90	4.186
+24	computer vision	-0.0572	0.5229	1	8	8	1	2022	3	0.1395
+25	context awareness	-0.651	0.3409	4	8	8	1	2022	2	0.093
+26	convolutional neural network	0.1554	0.7657	5	5	5	1	2023	16	2.3704
+27	coupled interaction	-1.2099	0.0187	11	4	4	1	2022	5	0.2326
+28	covid-19	0.1912	-0.483	2	13	13	1	2022	21	0.9767
+29	cyber-physical system	-0.0726	0.4829	1	8	8	1	2022	3	0.1395
+30	cybersecurity	-0.4265	0.3952	4	4	4	1	2018	478	1.695
+31	data models	-0.2311	0.3699	15	8	8	1	2022	90	4.186
+32	data protection	-0.1439	1.0219	5	5	5	1	2023	5	0.7407
+33	data-to-text	-0.9713	-0.1262	11	2	2	1	2020	31	1.0333
+34	deep learning	0.2716	0.3631	6	49	55	9	2021.5556	76.4444	1.4558
+35	deep learning (dl)	0.2551	0.0825	7	3	3	1	2023	5	0.7407
+36	deep q-networks	-1.1971	-0.3047	16	4	4	1	2024	11	2.75
+37	deptsol	-0.0847	0.5106	1	8	8	1	2022	3	0.1395
+38	device classification	-0.3138	-0.3855	13	10	10	1	2023	1	0.1481
+39	devices tracking	-0.1295	1.0507	5	5	5	1	2023	5	0.7407
+40	directed hypergraph	-0.6042	0.0588	1	3	3	1	2020	12	0.4
+41	diseases	0.5006	0.17	9	9	9	1	2022	32	1.4884
+42	edge computing	0.7	0.7948	6	5	5	1	2022	3	0.1395
+43	edge-aided control	-1.193	0.0281	11	4	4	1	2022	5	0.2326
+44	encoding	-0.2098	0.3423	15	8	8	1	2022	90	4.186
+45	fashion recommendation	-0.1779	-0.135	10	10	10	1	2024	0	0
+46	feature extraction	0.1237	-0.3493	8	30	32	3	2022.3333	27.3333	1.3052
+47	feature selection	0.1925	0.0767	7	7	7	2	2020.5	45.5	0.5229
+48	fog networks	-0.4276	0.3748	4	4	4	1	2018	478	1.695
+49	gallium nitride	0.4692	-0.1635	8	9	9	1	2022	60	2.7907
+50	game theory	-0.5901	0.0502	1	3	3	1	2020	12	0.4
+51	generative adversarial network (gan)	0.4069	-0.1778	8	9	9	1	2022	60	2.7907
+52	generative adversarial networks	0.4451	-0.1919	8	9	9	1	2022	60	2.7907
+53	geo-textual	-0.0943	0.1901	1	11	11	1	2021	29	1.7313
+54	geoparsing	0.1814	-0.5258	2	13	13	1	2022	21	0.9767
+55	graph contrastive neural network	-0.2407	-0.3851	13	10	10	1	2023	1	0.1481
+56	graph convolutional networks (gcns)	-0.2942	-0.6623	3	11	11	1	2022	21	0.9767
+57	graph neural networks	-0.3891	0.191	4	25	26	3	2022.6667	30.6667	1.4264
+58	heterogeneous graph	-0.1311	-0.0928	10	10	10	1	2024	0	0
+59	heterogeneous networks	-0.1492	1.0529	5	5	5	1	2023	5	0.7407
+60	heuristic learning	-1.1786	-0.3007	16	4	4	1	2024	11	2.75
+61	image edge detection	0.408	-0.1404	8	9	9	1	2022	60	2.7907
+62	implicit feedback	-0.3076	-0.5991	3	11	11	1	2022	21	0.9767
+63	information diffusion	-1.2179	0.0365	11	4	4	1	2022	5	0.2326
+64	internet of things	-0.049	-0.1246	8	66	88	10	2021.1	85.1	1.6268
+65	intrusion detection	0.4463	-0.1319	8	9	9	1	2022	60	2.7907
+66	intrusion detection system	-1.1823	-0.2825	16	4	4	1	2024	11	2.75
+67	iot towards covid-19	-0.0327	0.5067	1	8	8	1	2022	3	0.1395
+68	long short term memory	0.1328	0.7887	5	5	5	1	2023	16	2.3704
+69	machine learning	-0.3132	0.1146	1	27	35	5	2020.4	32.6	0.9092
+70	mechanism	0.7149	0.7654	6	5	5	1	2022	3	0.1395
+71	motion pictures	-0.1964	-0.0978	10	10	10	1	2024	0	0
+72	multi-step forecasting	0.1329	0.7659	5	5	5	1	2023	16	2.3704
+73	multi-view interaction	1.0881	-1.6621	17	2	2	1	2024	1	0.25
+74	multimodal	1.0986	-1.6627	17	2	2	1	2024	1	0.25
+75	mutual attention mechanism	0.7756	-0.0682	7	3	3	1	2020	47	1.5667
+76	natural language generation	-0.9713	-0.1158	11	2	2	1	2020	31	1.0333
+77	natural language processing (nlp)	0.7721	-0.0849	7	3	3	1	2020	47	1.5667
+78	neighbor-aware deep learning	0.5093	0.5955	6	3	3	1	2021	1	0.0597
+79	neural dynamics	-1.2012	0.0446	11	4	4	1	2022	5	0.2326
+80	nonsampling learning	-0.347	-0.6047	3	11	11	1	2022	21	0.9767
+81	object recognition	-0.2973	-0.3563	13	10	10	1	2023	1	0.1481
+82	objects	1.9988	0.0676	14	4	4	1	2022	3	0.1395
+83	openstreetmap (osm)	0.2197	-0.5086	2	13	13	1	2022	21	0.9767
+84	peer-to-peer computing	-0.5753	-0.2928	12	9	9	1	2021	33	1.9701
+85	phone data	0.4946	0.6025	6	3	3	1	2021	1	0.0597
+86	place name extraction	0.155	-0.4909	2	13	13	1	2022	21	0.9767
+87	plant disease detection	0.4687	0.117	9	9	9	1	2022	32	1.4884
+88	plant disease prediction	0.4429	0.1452	9	9	9	1	2022	32	1.4884
+89	plants (biology)	0.4757	0.1486	9	9	9	1	2022	32	1.4884
+90	power consumption	0.1563	0.7883	5	5	5	1	2023	16	2.3704
+91	predictive modeling	1.9839	0.0734	14	4	4	1	2022	3	0.1395
+92	preference perception	-0.1658	-0.0721	10	10	10	1	2024	0	0
+93	quality of service	-0.6039	-0.3128	12	9	9	1	2021	33	1.9701
+94	quotient user-centric coeval-learning (qucl)&nbsp	0.6851	0.7811	6	5	5	1	2022	3	0.1395
+95	recommender systems	-0.3205	-0.6324	3	11	11	1	2022	21	0.9767
+96	resource efficiency	-0.0571	0.1805	1	11	11	1	2021	29	1.7313
+97	sarcasm detection	1.0945	-1.653	17	2	2	1	2024	1	0.25
+98	secure communications	-0.7915	-0.2902	12	3	3	1	2022	13	0.6047
+99	security	-0.6862	0.3174	4	8	8	1	2022	2	0.093
+100	self-supervised learning	-0.2649	-0.3628	13	10	10	1	2023	1	0.1481
+101	semantics	-0.6877	0.3637	4	8	8	1	2022	2	0.093
+102	sensors	0.2013	-0.1013	9	31	33	3	2021.6667	27.3333	1.3988
+103	sentiment classification	0.7872	-0.0801	7	3	3	1	2020	47	1.5667
+104	service discovery	-0.6987	0.3395	4	8	8	1	2022	2	0.093
+105	service reliability	0.7174	0.7853	6	5	5	1	2022	3	0.1395
+106	siot (social internet of things)	2.0093	0.0803	14	4	4	1	2022	3	0.1395
+107	smart cities	-0.5642	0.3602	4	12	12	2	2020	240	0.894
+108	smart city	-0.1588	1.0354	5	5	5	1	2023	5	0.7407
+109	smart homes	-0.1376	-0.1332	10	10	10	1	2024	0	0
+110	smart object recommendation	0.4164	-0.3453	2	4	4	1	2022	5	0.2326
+111	smart phones	0.5037	0.1322	9	9	9	1	2022	32	1.4884
+112	social computing	-0.2363	0.3206	15	8	8	1	2022	90	4.186
+113	social distancing	-0.042	0.4793	1	8	8	1	2022	3	0.1395
+114	social factors	-0.5887	-0.2591	12	9	9	1	2021	33	1.9701
+115	social internet of things	-0.7442	-0.097	11	49	57	10	2021.6	19.4	0.7537
+116	social internet of things (iot)	-0.0611	-0.5782	3	23	24	2	2022	21	0.9767
+117	social internet of things (siot)	0.4375	-0.0206	7	34	36	6	2022	24.6667	1.1375
+118	social iot	-0.0699	0.6378	5	31	37	5	2022.2	28.6	1.8336
+119	social networking (online)	-0.3218	-0.1818	3	39	49	5	2021.8	34.8	1.8025
+120	statistical learning	0.1901	-0.5686	2	13	13	1	2022	21	0.9767
+121	stem	-0.6601	0.316	4	8	8	1	2022	2	0.093
+122	task analysis	-0.2142	-0.2592	3	37	42	4	2022.5	12.75	0.7141
+123	telecommunication traffic	-0.2917	-0.4104	13	10	10	1	2023	1	0.1481
+124	text mining	0.6441	-0.0154	7	2	2	1	2021	4	0.2388
+125	traffic monitoring	-0.1264	1.0308	5	5	5	1	2023	5	0.7407
+126	training	-0.3601	-0.6398	3	11	11	1	2022	21	0.9767
+127	transformers	0.0191	-0.322	10	23	23	2	2023	10.5	0.4884
+128	trust inference	0.4966	0.5857	6	3	3	1	2021	1	0.0597
+129	trust management	-0.7049	-0.2936	12	11	12	2	2021.5	23	1.2874
+130	trust related attacks	-0.7929	-0.3063	12	3	3	1	2022	13	0.6047
+131	trustworthiness management	-0.6175	-0.2775	12	9	9	1	2021	33	1.9701
+132	tweets	0.2209	-0.5463	2	13	13	1	2022	21	0.9767
+133	zero-day attacks	-1.2005	-0.2863	16	4	4	1	2024	11	2.75

@@ -579,4 +579,76 @@ UT WOS:000897823900001
 DA 2024-07-23
 ER
 
+PT J
+AU Mekala, MS
+   Srivastava, G
+   Park, JH
+   Jung, HY
+AF Mekala, M. S.
+   Srivastava, Gautam
+   Park, Ju H.
+   Jung, Ho-Youl
+TI An effective communication and computation model based on a
+   hybridgraph-deeplearning approach for SIoT
+SO DIGITAL COMMUNICATIONS AND NETWORKS
+LA English
+DT Article
+DE Edge computing; Adaptive trust weight (ATW) model; Quotient user-centric
+   coeval-learning (QUCL)&nbsp; mechanism; Deep learning; Service
+   reliability
+ID TRUST COMPUTING MECHANISM; D2D COMMUNICATIONS; MULTISOURCE FEEDBACK;
+   ALLOCATION; TRANSMISSION; SELECTION
+AB Social Edge Service (SES) is an emerging mechanism in the Social Internet of Things (SIoT) orchestration for effective user-centric reliable communication and computation. The services are affected by active and/or passive attacks such as replay attacks, message tampering because of sharing the same spectrum, as well as inadequate trust measurement methods among intelligent devices (roadside units, mobile edge devices, servers) during computing and content-sharing. These issues lead to computation and communication overhead of servers and computation nodes. To address this issue, we propose the HybridgrAph-Deep-learning (HAD) approach in two stages for secure communication and computation. First, the Adaptive Trust Weight (ATW) model with relation -based feedback fusion analysis to estimate the fitness-priority of every node based on directed graph theory to detect malicious nodes and reduce computation and communication overhead. Second, a Quotient User-centric Coeval-Learning (QUCL) mechanism to formulate secure channel selection, and Nash equilibrium method for optimizing the communication to share data over edge devices. The simulation results confirm that our proposed approach has achieved effective communication and computation performance, and enhanced Social Edge Ser-vices (SES) reliability than state-of-the-art approaches.
+C1 [Mekala, M. S.; Jung, Ho-Youl] Yeungnam Univ, Dept Informat & Commun Engn, Gyongsan 38544, South Korea.
+   [Mekala, M. S.] Yeungnam Univ, RLRC LAb Autonomous Vehicle Parts & Mat Innovat, Gyongsan 38544, South Korea.
+   [Srivastava, Gautam] Brandon Univ, Dept Math & Comp Sci, Brandon, MB, Canada.
+   [Park, Ju H.] Yeungnam Univ, Dept Elect Engn, Gyongsan, South Korea.
+   [Srivastava, Gautam] China Med Univ, Res Ctr Interneural Comp, Taichung, Taiwan.
+C3 Yeungnam University; Yeungnam University; Brandon University; Yeungnam
+   University; China Medical University Taiwan
+RP Jung, HY (corresponding author), Yeungnam Univ, Dept Informat & Commun Engn, Gyongsan 38544, South Korea.
+EM msmekala@yu.ac.kr; srivastavag@brandonu.ca; jessie@ynu.ac.kr;
+   hoyoul@yu.ac.kr
+RI Mekala, M S/AAD-1253-2020; Park, Ju H./J-8796-2012; Srivastava,
+   Gautam/N-5668-2019
+OI Mekala, M S/0000-0002-1313-285X; Park, Ju H./0000-0002-0218-2333;
+   Srivastava, Gautam/0000-0001-9851-4103; Jung,
+   Ho-Youl/0000-0002-1719-7853
+FU Basic Science Research Programs of the Ministry of Education
+   [NRF-2018R1A2B6005105]; National Research Foundation of Korea (NRF) -
+   Korean government (MSIT) [2019R1A5A8080290]
+FX This work is supported in part by Basic Science Research Programs of the
+   Ministry of Education (NRF-2018R1A2B6005105) and in part by the National
+   Research Foundation of Korea (NRF) grant funded by the Korean government
+   (MSIT) (No.2019R1A5A8080290) .
+NR 42
+TC 3
+Z9 3
+U1 1
+U2 4
+PU KEAI PUBLISHING LTD
+PI BEIJING
+PA 16 DONGHUANGCHENGGEN NORTH ST, Building 5, Room 411, BEIJING, DONGCHENG
+   DISTRICT 100009, PEOPLES R CHINA
+SN 2468-5925
+EI 2352-8648
+J9 DIGIT COMMUN NETW
+JI Digit. Commun. Netw.
+PD DEC
+PY 2022
+VL 8
+IS 6
+BP 900
+EP 910
+DI 10.1016/j.dcan.2022.07.004
+PG 11
+WC Telecommunications
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Telecommunications
+GA 8P6MA
+UT WOS:000926634800001
+OA Green Published
+DA 2024-07-25
+ER
+
 EF
